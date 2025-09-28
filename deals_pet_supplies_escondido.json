@@ -1,33 +1,21 @@
 [
   {
     "brand": "A Pup Above",
-    "title": "Neighborhood Pet Store Day",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvSA%2BBsnqDEIA%3D%3D",
-    "validity": "09/27/2025 to 09/28/2025"
-  },
-  {
-    "brand": "A Pup Above",
     "title": "$5.00 OFF 3lb Gently Cooked",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvSA%2BBsnqDCIg%3D%3D",
     "validity": "09/01/2025 to 09/30/2025"
   },
   {
-    "brand": "ACANA",
+    "brand": "A Pup Above",
     "title": "Neighborhood Pet Store Day",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzfGf9kkKDA",
-    "validity": "09/27/2025 to 09/27/2025"
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvSA%2BBsnqDEIA%3D%3D",
+    "validity": "09/27/2025 to 09/28/2025"
   },
   {
     "brand": "Ark Naturals",
     "title": "Neighborhood Pet Store Day",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvWB%2BBsnq7EKw%3D%3D",
     "validity": "09/26/2025 to 09/28/2025"
-  },
-  {
-    "brand": "Badlands Ranch",
-    "title": "Neighborhood Pet Store Day",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3UD%2BBsnq%2FIJQ%3D%3D",
-    "validity": "09/27/2025 to 09/27/2025"
   },
   {
     "brand": "Blue Buffalo",
@@ -37,14 +25,14 @@
   },
   {
     "brand": "Blue Buffalo",
-    "title": "$5.00 OFF Large Bags of Wilderness Dry Dog Food",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrUGf9kn6jF",
+    "title": "$5.00 OFF Large Bag of Wilderness Dry Cat Food",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrUGf9kn6jH",
     "validity": "09/01/2025 to 09/30/2025"
   },
   {
     "brand": "Blue Buffalo",
-    "title": "$5.00 OFF Large Bag of Wilderness Dry Cat Food",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrUGf9kn6jH",
+    "title": "$5.00 OFF Large Bags of Wilderness Dry Dog Food",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrUGf9kn6jF",
     "validity": "09/01/2025 to 09/30/2025"
   },
   {
@@ -55,15 +43,15 @@
   },
   {
     "brand": "Canidae",
-    "title": "Neighborhood Pet Store Day",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvVGf9kn67C",
-    "validity": "09/26/2025 to 09/28/2025"
-  },
-  {
-    "brand": "Canidae",
     "title": "$7.00 OFF Large Bags of Dry Dog Food",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvVGfxtla7I",
     "validity": "10/01/2025 to 10/31/2025"
+  },
+  {
+    "brand": "Canidae",
+    "title": "Neighborhood Pet Store Day",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvVGf9kn67C",
+    "validity": "09/26/2025 to 09/28/2025"
   },
   {
     "brand": "Carefresh by Healthy Pet",
@@ -76,30 +64,6 @@
     "title": "Buy 3, Get 1 FREE on Saucey Pate Cat Cans",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynSAOBsnqDEJw%3D%3D",
     "validity": "09/01/2025 to 10/31/2025"
-  },
-  {
-    "brand": "Dave's Pet Food",
-    "title": "Neighborhood Pet Store Day",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynSAOBsnqDEJA%3D%3D",
-    "validity": "09/27/2025 to 09/27/2025"
-  },
-  {
-    "brand": "Dr. Marty",
-    "title": "Neighborhood Pet Store Day",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvXA%2BBsnq%2FIKg%3D%3D",
-    "validity": "09/27/2025 to 09/27/2025"
-  },
-  {
-    "brand": "Earth Animal",
-    "title": "Neighborhood Pet Store Day",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrTAeBvl6nEIA%3D%3D",
-    "validity": "09/27/2025 to 09/27/2025"
-  },
-  {
-    "brand": "Earth Rated",
-    "title": "Neighborhood Pet Store Day",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvfB%2BBsnq%2FDKw%3D%3D",
-    "validity": "09/27/2025 to 09/27/2025"
   },
   {
     "brand": "Earthborn Holistic",
@@ -126,46 +90,10 @@
     "validity": "09/15/2025 to 09/30/2025"
   },
   {
-    "brand": "Farmina",
-    "title": "Neighborhood Pet Store Day",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDQGf9kn6rH",
-    "validity": "09/27/2025 to 09/27/2025"
-  },
-  {
-    "brand": "Farmina",
-    "title": "Neighborhood Pet Store Day",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDQGf9kn6rI",
-    "validity": "09/27/2025 to 09/27/2025"
-  },
-  {
-    "brand": "Farmina",
-    "title": "Neighborhood Pet Store Day",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDQGf9kn6rG",
-    "validity": "09/27/2025 to 09/27/2025"
-  },
-  {
     "brand": "FirstMate Pet Foods",
     "title": "Dollars OFF New Zealand Beef Formulas",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyHXGf9kn6rE",
     "validity": "09/01/2025 to 09/30/2025"
-  },
-  {
-    "brand": "Fromm Family Foods",
-    "title": "Neighborhood Pet Store Day",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGf9knqHC",
-    "validity": "09/27/2025 to 09/27/2025"
-  },
-  {
-    "brand": "Fromm Family Foods",
-    "title": "Neighborhood Pet Store Day",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGf9knqDD",
-    "validity": "09/27/2025 to 09/27/2025"
-  },
-  {
-    "brand": "Fromm Family Foods",
-    "title": "$5.00 OFF Gold Dry Cat Food",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxtl6nB",
-    "validity": "09/28/2025 to 11/30/2025"
   },
   {
     "brand": "Fromm Family Foods",
@@ -175,15 +103,9 @@
   },
   {
     "brand": "Fromm Family Foods",
-    "title": "Neighborhood Pet Store Day",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGf9knqDC",
-    "validity": "09/27/2025 to 09/27/2025"
-  },
-  {
-    "brand": "Fromm Family Foods",
-    "title": "Neighborhood Pet Store Day",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGf9knqDE",
-    "validity": "09/27/2025 to 09/27/2025"
+    "title": "$5.00 OFF Gold Dry Cat Food",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxtl6nB",
+    "validity": "09/28/2025 to 11/30/2025"
   },
   {
     "brand": "Fussie Cat",
@@ -192,10 +114,10 @@
     "validity": "09/27/2025 to 09/28/2025"
   },
   {
-    "brand": "Himalayan Pet Supply",
-    "title": "Neighborhood Pet Store Day",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3XGf9kka%2FB",
-    "validity": "09/27/2025 to 09/27/2025"
+    "brand": "HomeoPet",
+    "title": "$2.00 OFF Avian Products",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3UBuBsnq3HKw%3D%3D",
+    "validity": "09/01/2025 to 09/30/2025"
   },
   {
     "brand": "HomeoPet",
@@ -204,39 +126,9 @@
     "validity": "09/01/2025 to 09/30/2025"
   },
   {
-    "brand": "HomeoPet",
-    "title": "$2.00 OFF Avian Products",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3UBuBsnq3HKw%3D%3D",
-    "validity": "09/01/2025 to 09/30/2025"
-  },
-  {
-    "brand": "Inaba Pet Foods",
-    "title": "Neighborhood Pet Store Day",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3SD%2BBsnq7JKw%3D%3D",
-    "validity": "09/27/2025 to 09/27/2025"
-  },
-  {
-    "brand": "INSTINCT",
-    "title": "Neighborhood Pet Store Day",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzXGf9knqzH",
-    "validity": "09/27/2025 to 09/27/2025"
-  },
-  {
     "brand": "INSTINCT",
     "title": "$3.00 OFF NEW 8oz FreshRaw Meals",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzXGfxtl6jH",
-    "validity": "09/01/2025 to 09/30/2025"
-  },
-  {
-    "brand": "INSTINCT",
-    "title": "Neighborhood Pet Store Day",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzXGf9knqzI",
-    "validity": "09/27/2025 to 09/27/2025"
-  },
-  {
-    "brand": "Midwestern Pet Food Inc",
-    "title": "$5.00 OFF 25lb Unrefined Ancient Grains & Superfoods",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvWGf9kn6zI",
     "validity": "09/01/2025 to 09/30/2025"
   },
   {
@@ -246,9 +138,21 @@
     "validity": "09/01/2025 to 09/30/2025"
   },
   {
+    "brand": "Midwestern Pet Food Inc",
+    "title": "$5.00 OFF 25lb Unrefined Ancient Grains & Superfoods",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvWGf9kn6zI",
+    "validity": "09/01/2025 to 09/30/2025"
+  },
+  {
     "brand": "Natural Balance",
     "title": "$7.00 OFF Large Bags of Dry Dog & Cat Food",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvVGfxtla7H",
+    "validity": "10/01/2025 to 10/31/2025"
+  },
+  {
+    "brand": "Natural Balance",
+    "title": "$2.00 OFF Dog Treats",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvVGfxtlavI",
     "validity": "10/01/2025 to 10/31/2025"
   },
   {
@@ -264,22 +168,10 @@
     "validity": "09/26/2025 to 09/28/2025"
   },
   {
-    "brand": "Natural Balance",
-    "title": "$2.00 OFF Dog Treats",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvVGfxtlavI",
-    "validity": "10/01/2025 to 10/31/2025"
-  },
-  {
     "brand": "Naturally Fresh by Eco Shell",
     "title": "Dollars OFF Litter",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynfBeBskK7CJQ%3D%3D",
     "validity": "01/01/2025 to 12/31/2025"
-  },
-  {
-    "brand": "Naturally Fresh by Eco Shell",
-    "title": "Neighborhood Pet Store Day",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynfBeBsnqDHJQ%3D%3D",
-    "validity": "09/27/2025 to 09/27/2025"
   },
   {
     "brand": "Nature's Logic",
@@ -289,39 +181,9 @@
   },
   {
     "brand": "Nulo",
-    "title": "Neighborhood Pet Store Day",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3WGf9kkK7J",
-    "validity": "09/27/2025 to 09/27/2025"
-  },
-  {
-    "brand": "Nulo",
-    "title": "Neighborhood Pet Store Day",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3WGf9kkK%2FB",
-    "validity": "09/27/2025 to 09/27/2025"
-  },
-  {
-    "brand": "Nulo",
-    "title": "Neighborhood Pet Store Day",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3WGf9kkK%2FA",
-    "validity": "09/27/2025 to 09/27/2025"
-  },
-  {
-    "brand": "Nulo",
     "title": "FREE 6oz Ancient Grain Stew with Qualifying Frontrunner Kibble Purchase",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3WGf9kkK7F",
     "validity": "09/28/2025 to 10/31/2025"
-  },
-  {
-    "brand": "Nulo",
-    "title": "FREE 2.8oz Minced or Finely Minced Can with FreeStyle Cat Kibble Purchase",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3WGf9kkK7H",
-    "validity": "09/28/2025 to 10/31/2025"
-  },
-  {
-    "brand": "Nulo",
-    "title": "Neighborhood Pet Store Day",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3WGf9kn63B",
-    "validity": "09/27/2025 to 09/27/2025"
   },
   {
     "brand": "Nulo",
@@ -330,16 +192,10 @@
     "validity": "09/01/2025 to 10/31/2025"
   },
   {
-    "brand": "Nutri Source",
-    "title": "Neighborhood Pet Store Day",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvXGf9knq7C",
-    "validity": "09/27/2025 to 09/27/2025"
-  },
-  {
-    "brand": "Nutri Source",
-    "title": "Neighborhood Pet Store Day",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvXGf9kn6%2FC",
-    "validity": "09/27/2025 to 09/27/2025"
+    "brand": "Nulo",
+    "title": "FREE 2.8oz Minced or Finely Minced Can with FreeStyle Cat Kibble Purchase",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3WGf9kkK7H",
+    "validity": "09/28/2025 to 10/31/2025"
   },
   {
     "brand": "Nutri Source",
@@ -354,10 +210,10 @@
     "validity": "07/01/2025 to 10/31/2025"
   },
   {
-    "brand": "Open Farm",
-    "title": "Neighborhood Pet Store Day",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDRGf9kn6vD",
-    "validity": "09/27/2025 to 09/27/2025"
+    "brand": "ORIJEN",
+    "title": "Buy 3, Get 1 FREE on Wet Cat Food",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzfGf9kkK3F",
+    "validity": "09/01/2025 to 09/30/2025"
   },
   {
     "brand": "ORIJEN",
@@ -373,20 +229,8 @@
   },
   {
     "brand": "ORIJEN",
-    "title": "Neighborhood Pet Store Day",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzfGf9kkK%2FJ",
-    "validity": "09/27/2025 to 09/27/2025"
-  },
-  {
-    "brand": "ORIJEN",
     "title": "Dollars OFF ORIJEN Freeze Dried Dog Food",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzfGf9kkK3E",
-    "validity": "09/01/2025 to 09/30/2025"
-  },
-  {
-    "brand": "ORIJEN",
-    "title": "Buy 3, Get 1 FREE on Wet Cat Food",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzfGf9kkK3F",
     "validity": "09/01/2025 to 09/30/2025"
   },
   {
@@ -394,18 +238,6 @@
     "title": "Buy a 40oz Oxbow Hay, Get a NEW Hay Topper FREE!",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDfGf9knqrE",
     "validity": "09/01/2025 to 10/31/2025"
-  },
-  {
-    "brand": "Plato Pet Treats",
-    "title": "Neighborhood Pet Store Day",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynVB%2BBsnq%2FGIg%3D%3D",
-    "validity": "09/27/2025 to 09/27/2025"
-  },
-  {
-    "brand": "Plato Pet Treats",
-    "title": "Neighborhood Pet Store Day",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynVB%2BBsnq%2FJIw%3D%3D",
-    "validity": "09/27/2025 to 09/27/2025"
   },
   {
     "brand": "Plato Pet Treats",
@@ -428,13 +260,13 @@
   {
     "brand": "Primal Pet Foods",
     "title": "Neighborhood Pet Store Day",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3XGf9kka7I",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3XGf9kka%2FA",
     "validity": "09/24/2025 to 10/01/2025"
   },
   {
     "brand": "Primal Pet Foods",
     "title": "Neighborhood Pet Store Day",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3XGf9kka%2FA",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3XGf9kka7I",
     "validity": "09/24/2025 to 10/01/2025"
   },
   {
@@ -446,7 +278,7 @@
   {
     "brand": "RAWZ Natural Pet Food",
     "title": "Neighborhood Pet Store Day",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynfA%2BBsnq%2FBIQ%3D%3D",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynfA%2BBsnq7CIA%3D%3D",
     "validity": "09/27/2025 to 09/28/2025"
   },
   {
@@ -458,20 +290,14 @@
   {
     "brand": "RAWZ Natural Pet Food",
     "title": "Neighborhood Pet Store Day",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynfA%2BBsnq7BJQ%3D%3D",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynfA%2BBsnq%2FBIQ%3D%3D",
     "validity": "09/27/2025 to 09/28/2025"
   },
   {
     "brand": "RAWZ Natural Pet Food",
     "title": "Neighborhood Pet Store Day",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynfA%2BBsnq7CIA%3D%3D",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynfA%2BBsnq7BJQ%3D%3D",
     "validity": "09/27/2025 to 09/28/2025"
-  },
-  {
-    "brand": "Redbarn INC",
-    "title": "Neighborhood Pet Store Day",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDWGf9kkavF",
-    "validity": "09/27/2025 to 09/27/2025"
   },
   {
     "brand": "Redbarn INC",
@@ -480,16 +306,10 @@
     "validity": "09/01/2025 to 10/31/2025"
   },
   {
-    "brand": "Redbarn INC",
-    "title": "Neighborhood Pet Store Day",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDWGf9kkarG",
-    "validity": "09/27/2025 to 09/27/2025"
-  },
-  {
-    "brand": "Smallbatch Pets",
-    "title": "Neighborhood Pet Store Day",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyneAeBsnq7CIw%3D%3D",
-    "validity": "09/27/2025 to 09/27/2025"
+    "brand": "The Bear and The Rat",
+    "title": "$1.00 OFF Frozen Yogurt 4-Packs",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrVDuBsnq7HJw%3D%3D",
+    "validity": "09/29/2025 to 11/27/2025"
   },
   {
     "brand": "The Bear and The Rat",
@@ -498,22 +318,10 @@
     "validity": "09/27/2025 to 09/28/2025"
   },
   {
-    "brand": "The Bear and The Rat",
-    "title": "$1.00 OFF Frozen Yogurt 4-Packs",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrVDuBsnq7HJw%3D%3D",
-    "validity": "09/29/2025 to 11/27/2025"
-  },
-  {
     "brand": "The Honest Kitchen",
     "title": "$5.00 OFF Select Dehydrated Boxes and Clusters for Dogs",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy7SGf9kn6rB",
     "validity": "09/01/2025 to 09/30/2025"
-  },
-  {
-    "brand": "The Honest Kitchen",
-    "title": "Neighborhood Pet Store Day",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy7SGf9kn6rC",
-    "validity": "09/27/2025 to 09/27/2025"
   },
   {
     "brand": "Tiki Cat",
@@ -522,33 +330,9 @@
     "validity": "10/01/2025 to 10/31/2025"
   },
   {
-    "brand": "Tiki Cat",
-    "title": "Neighborhood Pet Store Day",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynTB%2BBsnqHAIA%3D%3D",
-    "validity": "09/27/2025 to 09/27/2025"
-  },
-  {
     "brand": "Tiki Cat & Tiki Dog (Whitebridge Brands)",
     "title": "Buy 6, Get 4 FREE on Tiki Cat Baby Cans",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynTB%2BBvl6jAJg%3D%3D",
-    "validity": "09/01/2025 to 09/30/2025"
-  },
-  {
-    "brand": "VetriScience",
-    "title": "Neighborhood Pet Store Day",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvTBOBsnqHDKw%3D%3D",
-    "validity": "09/27/2025 to 09/27/2025"
-  },
-  {
-    "brand": "VetriScience",
-    "title": "Neighborhood Pet Store Day",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvTBOBsnqHEIg%3D%3D",
-    "validity": "09/27/2025 to 09/27/2025"
-  },
-  {
-    "brand": "Vital Essentials",
-    "title": "$5.00 OFF Frozen Dog Food",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynUDuBsnq%2FCJw%3D%3D",
     "validity": "09/01/2025 to 09/30/2025"
   },
   {
@@ -559,9 +343,9 @@
   },
   {
     "brand": "Vital Essentials",
-    "title": "Neighborhood Pet Store Day",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynUDuBsnq%2FCJQ%3D%3D",
-    "validity": "09/27/2025 to 09/28/2025"
+    "title": "$3.00 OFF Frozen Cat Food",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynUDuBsnqHEJA%3D%3D",
+    "validity": "09/01/2025 to 09/30/2025"
   },
   {
     "brand": "Vital Essentials",
@@ -571,9 +355,15 @@
   },
   {
     "brand": "Vital Essentials",
-    "title": "$3.00 OFF Frozen Cat Food",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynUDuBsnqHEJA%3D%3D",
+    "title": "$5.00 OFF Frozen Dog Food",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynUDuBsnq%2FCJw%3D%3D",
     "validity": "09/01/2025 to 09/30/2025"
+  },
+  {
+    "brand": "Vital Essentials",
+    "title": "Neighborhood Pet Store Day",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynUDuBsnq%2FCJQ%3D%3D",
+    "validity": "09/27/2025 to 09/28/2025"
   },
   {
     "brand": "Wellness Pet Food and Whimzees",
@@ -583,14 +373,14 @@
   },
   {
     "brand": "Wellness Pet Food and Whimzees",
-    "title": "Buy 2, Get 2 FREE on WHIMZEES Single Treats",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynXBeBsnq%2FAJQ%3D%3D",
+    "title": "Neighborhood Pet Store Day",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynXBeBsnq%2FEJw%3D%3D",
     "validity": "09/27/2025 to 09/28/2025"
   },
   {
     "brand": "Wellness Pet Food and Whimzees",
-    "title": "Neighborhood Pet Store Day",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynXBeBsnq%2FEJw%3D%3D",
+    "title": "Buy 2, Get 2 FREE on WHIMZEES Single Treats",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynXBeBsnq%2FAJQ%3D%3D",
     "validity": "09/27/2025 to 09/28/2025"
   },
   {
@@ -614,13 +404,13 @@
   {
     "brand": "Ziwi Peak",
     "title": "Neighborhood Pet Store Day",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynTBuBsnq%2FAIA%3D%3D",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynTBuBsnq%2FAIw%3D%3D",
     "validity": "09/23/2025 to 10/01/2025"
   },
   {
     "brand": "Ziwi Peak",
     "title": "Neighborhood Pet Store Day",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynTBuBsnq%2FAIw%3D%3D",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynTBuBsnq%2FAIA%3D%3D",
     "validity": "09/23/2025 to 10/01/2025"
   }
 ]
