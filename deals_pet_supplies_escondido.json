@@ -31,6 +31,12 @@
   },
   {
     "brand": "Blue Buffalo",
+    "title": "$1.00 OFF Dog Food Cans",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrUGfxtlqnA",
+    "validity": "10/01/2025 to 10/31/2025"
+  },
+  {
+    "brand": "Blue Buffalo",
     "title": "$2.00 OFF Dog Treats",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrUGfxtlqnB",
     "validity": "10/01/2025 to 10/31/2025"
@@ -42,21 +48,15 @@
     "validity": "10/01/2025 to 10/31/2025"
   },
   {
-    "brand": "Blue Buffalo",
-    "title": "$1.00 OFF Dog Food Cans",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrUGfxtlqnA",
+    "brand": "Bocce's Bakery",
+    "title": "$1.00 OFF Everyday Soft & Chewy Treats",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvWB%2BBvl6rFJA%3D%3D",
     "validity": "10/01/2025 to 10/31/2025"
   },
   {
     "brand": "Bocce's Bakery",
     "title": "$2.00 OFF Bocce's Brushy Sticks",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvWB%2BBvl6rFJw%3D%3D",
-    "validity": "10/01/2025 to 10/31/2025"
-  },
-  {
-    "brand": "Bocce's Bakery",
-    "title": "$1.00 OFF Everyday Soft & Chewy Treats",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvWB%2BBvl6rFJA%3D%3D",
     "validity": "10/01/2025 to 10/31/2025"
   },
   {
@@ -103,8 +103,8 @@
   },
   {
     "brand": "Farmina",
-    "title": "Dollars OFF Small Bags & Medium Bags of N&D Pumpkin or Ancestral Grain",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDQGfxtla7A",
+    "title": "Buy 2, Get 1 FREE on N&D Dog Treats",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDQGfxtla7B",
     "validity": "10/01/2025 to 10/31/2025"
   },
   {
@@ -115,8 +115,8 @@
   },
   {
     "brand": "Farmina",
-    "title": "Buy 2, Get 1 FREE on N&D Dog Treats",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDQGfxtla7B",
+    "title": "Dollars OFF Small Bags & Medium Bags of N&D Pumpkin or Ancestral Grain",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDQGfxtla7A",
     "validity": "10/01/2025 to 10/31/2025"
   },
   {
@@ -133,8 +133,26 @@
   },
   {
     "brand": "Fromm Family Foods",
-    "title": "FREE Can or Select Treat with Qualifying Four-Star Surf & Turf Purchase",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxtk6jD",
+    "title": "Buy 2, Get 1 FREE on Select Dog & Cat Treats",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxtk6zB",
+    "validity": "10/01/2025 to 10/31/2025"
+  },
+  {
+    "brand": "Fromm Family Foods",
+    "title": "$5.00 OFF Gold Dry Cat Food",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxtl6nB",
+    "validity": "09/28/2025 to 11/30/2025"
+  },
+  {
+    "brand": "Fromm Family Foods",
+    "title": "Buy 1, Get 1 FREE on Cat Cans",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxtl6vF",
+    "validity": "09/01/2025 to 11/30/2025"
+  },
+  {
+    "brand": "Fromm Family Foods",
+    "title": "FREE Can or Select Treat with Qualifying Four-Star Beef Frittata Veg Purchase",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxtlKHC",
     "validity": "10/01/2025 to 12/31/2025"
   },
   {
@@ -145,38 +163,20 @@
   },
   {
     "brand": "Fromm Family Foods",
-    "title": "FREE Can or Select Treat with Qualifying Four-Star Game Bird Purchase",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxtk6jC",
-    "validity": "10/01/2025 to 12/31/2025"
-  },
-  {
-    "brand": "Fromm Family Foods",
-    "title": "Buy 2, Get 1 FREE on Select Dog & Cat Treats",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxtk6zB",
-    "validity": "10/01/2025 to 10/31/2025"
-  },
-  {
-    "brand": "Fromm Family Foods",
-    "title": "FREE Can or Select Treat with Qualifying Four-Star Beef Frittata Veg Purchase",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxtlKHC",
-    "validity": "10/01/2025 to 12/31/2025"
-  },
-  {
-    "brand": "Fromm Family Foods",
-    "title": "Buy 1, Get 1 FREE on Cat Cans",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxtl6vF",
-    "validity": "09/01/2025 to 11/30/2025"
-  },
-  {
-    "brand": "Fromm Family Foods",
-    "title": "$5.00 OFF Gold Dry Cat Food",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxtl6nB",
-    "validity": "09/28/2025 to 11/30/2025"
-  },
-  {
-    "brand": "Fromm Family Foods",
     "title": "FREE Can or Select Treat with Qualifying Four-Star Salmon Tunalini Purchase",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxtlKHH",
+    "validity": "10/01/2025 to 12/31/2025"
+  },
+  {
+    "brand": "Fromm Family Foods",
+    "title": "FREE Can or Select Treat with Qualifying Four-Star Surf & Turf Purchase",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxtk6jD",
+    "validity": "10/01/2025 to 12/31/2025"
+  },
+  {
+    "brand": "Fromm Family Foods",
+    "title": "FREE Can or Select Treat with Qualifying Four-Star Game Bird Purchase",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxtk6jC",
     "validity": "10/01/2025 to 12/31/2025"
   },
   {
@@ -187,20 +187,14 @@
   },
   {
     "brand": "HomeoPet",
-    "title": "$2.00 OFF Select Digestive Upsets Products",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3UBuBvl6jDIg%3D%3D",
-    "validity": "10/01/2025 to 10/31/2025"
-  },
-  {
-    "brand": "HomeoPet",
     "title": "$2.00 OFF Select WRM Clear Products",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3UBuBvl6jDIw%3D%3D",
     "validity": "10/01/2025 to 10/31/2025"
   },
   {
-    "brand": "Instinct",
-    "title": "Save $3.00 on NEW 16oz FreshRaw Meals",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzXGfxtlavE",
+    "brand": "HomeoPet",
+    "title": "$2.00 OFF Select Digestive Upsets Products",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3UBuBvl6jDIg%3D%3D",
     "validity": "10/01/2025 to 10/31/2025"
   },
   {
@@ -217,20 +211,26 @@
   },
   {
     "brand": "Instinct",
+    "title": "Save $3.00 on NEW 16oz FreshRaw Meals",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzXGfxtlavE",
+    "validity": "10/01/2025 to 10/31/2025"
+  },
+  {
+    "brand": "Instinct",
     "title": "Buy 3, Get 1 FREE on 3oz & 5.5oz Cat Cans & Pouches",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzXGfxtlavG",
     "validity": "10/01/2025 to 10/31/2025"
   },
   {
     "brand": "Natural Balance",
-    "title": "$2.00 OFF Dog Treats",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvVGfxtlavI",
+    "title": "$7.00 OFF Large Bags of Dry Dog & Cat Food",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvVGfxtla7H",
     "validity": "10/01/2025 to 10/31/2025"
   },
   {
     "brand": "Natural Balance",
-    "title": "$7.00 OFF Large Bags of Dry Dog & Cat Food",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvVGfxtla7H",
+    "title": "$2.00 OFF Dog Treats",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvVGfxtlavI",
     "validity": "10/01/2025 to 10/31/2025"
   },
   {
@@ -241,9 +241,9 @@
   },
   {
     "brand": "Nulo",
-    "title": "Dollars OFF Select Freeze-Dried Raw",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3WGf9kkK7B",
-    "validity": "09/01/2025 to 10/31/2025"
+    "title": "FREE 6oz Ancient Grain Stew with Qualifying Frontrunner Kibble Purchase",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3WGf9kkK7F",
+    "validity": "09/28/2025 to 10/31/2025"
   },
   {
     "brand": "Nulo",
@@ -253,21 +253,15 @@
   },
   {
     "brand": "Nulo",
-    "title": "FREE 6oz Ancient Grain Stew with Qualifying Frontrunner Kibble Purchase",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3WGf9kkK7F",
-    "validity": "09/28/2025 to 10/31/2025"
+    "title": "Dollars OFF Select Freeze-Dried Raw",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3WGf9kkK7B",
+    "validity": "09/01/2025 to 10/31/2025"
   },
   {
     "brand": "NutriSource Choice",
     "title": "Buy Choice Kibble, Get a FREE Choice Can!",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvXGfxtlq%2FD",
     "validity": "10/01/2025 to 10/31/2025"
-  },
-  {
-    "brand": "NutriSource, PureVita, & Elements",
-    "title": "Buy 2, Get 1 FREE on Cat Cans for Caturday!",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvXGfxtlq%2FB",
-    "validity": "10/01/2025 to 10/01/2025"
   },
   {
     "brand": "NutriSource, PureVita, & Elements",
@@ -324,30 +318,6 @@
     "validity": "09/01/2025 to 10/31/2025"
   },
   {
-    "brand": "Primal Pet Foods",
-    "title": "Neighborhood Pet Store Day",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3XGf9kka7I",
-    "validity": "09/24/2025 to 10/01/2025"
-  },
-  {
-    "brand": "Primal Pet Foods",
-    "title": "Neighborhood Pet Store Day",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3XGf9kkazE",
-    "validity": "09/24/2025 to 10/01/2025"
-  },
-  {
-    "brand": "Primal Pet Foods",
-    "title": "Neighborhood Pet Store Day",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3XGf9kka%2FA",
-    "validity": "09/24/2025 to 10/01/2025"
-  },
-  {
-    "brand": "Primal Pet Foods",
-    "title": "Neighborhood Pet Store Day",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3XGf9kka7J",
-    "validity": "09/24/2025 to 10/01/2025"
-  },
-  {
     "brand": "Raised Right Pets",
     "title": "$0.50 OFF 4oz Pate Recipe",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrTBOBsnqHHIw%3D%3D",
@@ -373,14 +343,14 @@
   },
   {
     "brand": "RAWZ",
-    "title": "$2.00 OFF Freeze Dried Cat Treats",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynfA%2BBvl6rCKw%3D%3D",
+    "title": "Buy 3, Get 1 FREE on 96% Cat Pate with Goat's Milk Cans",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynfA%2BBvl6rDIg%3D%3D",
     "validity": "10/01/2025 to 10/31/2025"
   },
   {
     "brand": "RAWZ",
-    "title": "Buy 3, Get 1 FREE on 96% Cat Pate with Goat's Milk Cans",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynfA%2BBvl6rDIg%3D%3D",
+    "title": "$2.00 OFF Freeze Dried Cat Treats",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynfA%2BBvl6rCKw%3D%3D",
     "validity": "10/01/2025 to 10/31/2025"
   },
   {
@@ -445,26 +415,14 @@
   },
   {
     "brand": "Ziwi Peak",
-    "title": "Dollars OFF Air-Dried and Steam & Dried Recipes for Dogs",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynTBuBvl6rHJA%3D%3D",
-    "validity": "10/02/2025 to 10/31/2025"
-  },
-  {
-    "brand": "Ziwi Peak",
-    "title": "Neighborhood Pet Store Day",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynTBuBsnq%2FAIA%3D%3D",
-    "validity": "09/23/2025 to 10/01/2025"
-  },
-  {
-    "brand": "Ziwi Peak",
     "title": "Dollars OFF Air-Dried and Steam & Dried Recipes for Cats",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynTBuBvl6rHJw%3D%3D",
     "validity": "10/02/2025 to 10/31/2025"
   },
   {
     "brand": "Ziwi Peak",
-    "title": "Neighborhood Pet Store Day",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynTBuBsnq%2FAIw%3D%3D",
-    "validity": "09/23/2025 to 10/01/2025"
+    "title": "Dollars OFF Air-Dried and Steam & Dried Recipes for Dogs",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynTBuBvl6rHJA%3D%3D",
+    "validity": "10/02/2025 to 10/31/2025"
   }
 ]
