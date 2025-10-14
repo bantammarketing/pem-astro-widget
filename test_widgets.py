@@ -10,7 +10,7 @@ from datetime import datetime
 
 def test_local_json_files():
     """Test local JSON files for validity and content."""
-    stores = ['wags_ann_arbor', 'wags_chelsea', 'wags_ludington', 'wags_tecumseh']
+    stores = ['wags_tecumseh', 'pet_supplies_escondido', 'tru_pet_richmond_hill']
     
     print("🔍 Testing Local JSON Files...")
     print("=" * 50)
@@ -53,7 +53,7 @@ def test_local_json_files():
 
 def test_github_raw_urls():
     """Test GitHub raw URLs for accessibility."""
-    stores = ['wags_ann_arbor', 'wags_chelsea', 'wags_ludington', 'wags_tecumseh']
+    stores = ['wags_tecumseh', 'pet_supplies_escondido', 'tru_pet_richmond_hill']
     
     print("🌐 Testing GitHub Raw URLs...")
     print("=" * 50)
@@ -82,7 +82,7 @@ def test_github_raw_urls():
 
 def test_widget_html_files():
     """Test widget HTML files exist and are accessible."""
-    stores = ['ann_arbor', 'chelsea', 'ludington', 'tecumseh']
+    stores = ['tecumseh_embed', 'pet_supplies_escondido_embed', 'tru_pet_richmond_hill_embed']
     
     print("📱 Testing Widget HTML Files...")
     print("=" * 50)

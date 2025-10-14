@@ -69,6 +69,36 @@
 
 ---
 
+## Pet Supplies Escondido Store
+
+```html
+<iframe 
+    src="https://raw.githubusercontent.com/bantammarketing/astro-deals-data/main/widget_pet_supplies_escondido.html" 
+    width="100%" 
+    height="800px" 
+    frameborder="0" 
+    scrolling="no"
+    style="border: none; width: 100%; max-width: 1200px; margin: 0 auto; display: block;">
+</iframe>
+```
+
+---
+
+## Tru Pet Richmond Hill Store
+
+```html
+<iframe 
+    src="https://raw.githubusercontent.com/bantammarketing/astro-deals-data/main/widget_tru_pet_richmond_hill.html" 
+    width="100%" 
+    height="800px" 
+    frameborder="0" 
+    scrolling="no"
+    style="border: none; width: 100%; max-width: 1200px; margin: 0 auto; display: block;">
+</iframe>
+```
+
+---
+
 ## Alternative: Direct HTML Embed
 
 If the iframe approach doesn't work well, you can also copy the entire HTML content from each widget file and paste it directly into a Code block. This gives you more control over styling and responsiveness.
