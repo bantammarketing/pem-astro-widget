@@ -13,7 +13,7 @@
 
 ```html
 <iframe 
-    src="https://raw.githubusercontent.com/bantammarketing/astro-deals-data/main/widget_ann_arbor.html" 
+    src="https://raw.githubusercontent.com/bantammarketing/pem-astro-widget/main/widget_ann_arbor.html" 
     width="100%" 
     height="800px" 
     frameborder="0" 
@@ -28,7 +28,7 @@
 
 ```html
 <iframe 
-    src="https://raw.githubusercontent.com/bantammarketing/astro-deals-data/main/widget_chelsea.html" 
+    src="https://raw.githubusercontent.com/bantammarketing/pem-astro-widget/main/widget_chelsea.html" 
     width="100%" 
     height="800px" 
     frameborder="0" 
@@ -43,7 +43,7 @@
 
 ```html
 <iframe 
-    src="https://raw.githubusercontent.com/bantammarketing/astro-deals-data/main/widget_ludington.html" 
+    src="https://raw.githubusercontent.com/bantammarketing/pem-astro-widget/main/widget_ludington.html" 
     width="100%" 
     height="800px" 
     frameborder="0" 
@@ -58,7 +58,7 @@
 
 ```html
 <iframe 
-    src="https://raw.githubusercontent.com/bantammarketing/astro-deals-data/main/widget_tecumseh.html" 
+    src="https://raw.githubusercontent.com/bantammarketing/pem-astro-widget/main/widget_tecumseh_embed.html" 
     width="100%" 
     height="800px" 
     frameborder="0" 
@@ -73,7 +73,7 @@
 
 ```html
 <iframe 
-    src="https://raw.githubusercontent.com/bantammarketing/astro-deals-data/main/widget_pet_supplies_escondido.html" 
+    src="https://raw.githubusercontent.com/bantammarketing/pem-astro-widget/main/widget_pet_supplies_escondido_embed.html" 
     width="100%" 
     height="800px" 
     frameborder="0" 
@@ -88,7 +88,7 @@
 
 ```html
 <iframe 
-    src="https://raw.githubusercontent.com/bantammarketing/astro-deals-data/main/widget_tru_pet_richmond_hill.html" 
+    src="https://raw.githubusercontent.com/bantammarketing/pem-astro-widget/main/widget_tru_pet_richmond_hill_embed.html" 
     width="100%" 
     height="800px" 
     frameborder="0" 
