@@ -31,12 +31,6 @@
   },
   {
     "brand": "Fromm",
-    "title": "Buy 3, Get 1 FREE on 6oz Crunchy Os Dog Treats",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxtkKrA",
-    "validity": "11/01/2025 to 12/31/2025"
-  },
-  {
-    "brand": "Fromm",
     "title": "Buy a 26oz Crunchy Os, Get a 6oz Crunchy Os FREE!",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxtkKrB",
     "validity": "11/01/2025 to 12/31/2025"
@@ -49,21 +43,21 @@
   },
   {
     "brand": "Fromm",
-    "title": "Buy 1, Get 1 FREE on NEW! Nutritionals Functional Treats",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxtlKzG",
-    "validity": "09/28/2025 to 12/31/2025"
-  },
-  {
-    "brand": "Fromm",
     "title": "Buy 1, Get 1 FREE on PurrSnackitty Cat Treats",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxtkKnJ",
     "validity": "11/01/2025 to 12/31/2025"
   },
   {
-    "brand": "Fromm Family Foods",
-    "title": "FREE Can or Select Treat with Qualifying Four-Star Surf & Turf Purchase",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxtk6jD",
-    "validity": "10/01/2025 to 12/31/2025"
+    "brand": "Fromm",
+    "title": "Buy 3, Get 1 FREE on 6oz Crunchy Os Dog Treats",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxtkKrA",
+    "validity": "11/01/2025 to 12/31/2025"
+  },
+  {
+    "brand": "Fromm",
+    "title": "Buy 1, Get 1 FREE on NEW! Nutritionals Functional Treats",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxtlKzG",
+    "validity": "09/28/2025 to 12/31/2025"
   },
   {
     "brand": "Fromm Family Foods",
@@ -76,6 +70,12 @@
     "title": "Buy 1, Get 1 FREE on NEW! Nutritionals Supplement Pates",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxtlK3J",
     "validity": "09/15/2025 to 12/31/2025"
+  },
+  {
+    "brand": "Fromm Family Foods",
+    "title": "FREE Can or Select Treat with Qualifying Four-Star Surf & Turf Purchase",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxtk6jD",
+    "validity": "10/01/2025 to 12/31/2025"
   },
   {
     "brand": "INSTINCT",
@@ -109,8 +109,8 @@
   },
   {
     "brand": "Nutri Source",
-    "title": "Buy 1, Get 1 FREE on Select NEW 4lb Formulas",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvXGfxtkqzD",
+    "title": "Buy 1, Get 1 FREE on 4lb & 12lb Puppy Formulas",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvXGfxtkqzF",
     "validity": "11/01/2025 to 12/31/2025"
   },
   {
@@ -121,20 +121,20 @@
   },
   {
     "brand": "Nutri Source",
-    "title": "Buy 1, Get 1 FREE on 4lb & 12lb Puppy Formulas",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvXGfxtkqzF",
+    "title": "Buy 1, Get 1 FREE on Select NEW 4lb Formulas",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvXGfxtkqzD",
     "validity": "11/01/2025 to 12/31/2025"
-  },
-  {
-    "brand": "NutriSource",
-    "title": "Buy Select Dog Kibble, Get a FREE Harvest Select Can",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvXGfxtkK7F",
-    "validity": "12/01/2025 to 12/31/2025"
   },
   {
     "brand": "NutriSource",
     "title": "Buy 1, Get 1 FREE on 'Select' Grain Free Dog Cans",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvXGfxtkK7E",
+    "validity": "12/01/2025 to 12/31/2025"
+  },
+  {
+    "brand": "NutriSource",
+    "title": "Buy Select Dog Kibble, Get a FREE Harvest Select Can",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvXGfxtkK7F",
     "validity": "12/01/2025 to 12/31/2025"
   },
   {
@@ -169,14 +169,14 @@
   },
   {
     "brand": "Raw Dog",
-    "title": "$1.00 OFF 2.5oz Bacon & Peanut Butter Puffs",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzSA%2BBvl6DJIQ%3D%3D",
+    "title": "$1.00 OFF 2.5oz CheezBurger Puffs",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzSA%2BBvl6DDJw%3D%3D",
     "validity": "12/01/2025 to 12/31/2025"
   },
   {
     "brand": "Raw Dog",
-    "title": "$1.00 OFF 2.5oz CheezBurger Puffs",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzSA%2BBvl6DDJw%3D%3D",
+    "title": "$1.00 OFF 2.5oz Bacon & Peanut Butter Puffs",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzSA%2BBvl6DJIQ%3D%3D",
     "validity": "12/01/2025 to 12/31/2025"
   },
   {
@@ -214,11 +214,5 @@
     "title": "Buy 6, Get 3 FREE on Solutions Mousse & Toppers",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynTB%2BBvl6DHIA%3D%3D",
     "validity": "12/01/2025 to 12/15/2025"
-  },
-  {
-    "brand": "Tiki Cat",
-    "title": "Buy 6, Get 3 FREE on Select Cans & Pouches",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynTB%2BBvl6DIIw%3D%3D",
-    "validity": "12/01/2025 to 12/08/2025"
   }
 ]
