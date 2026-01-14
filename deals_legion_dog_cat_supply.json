@@ -79,26 +79,26 @@
   },
   {
     "brand": "Fromm Pet Food",
-    "title": "$5.00 OFF 4lb & 10lb PurrSnickitty Dry Food",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxslaHB",
-    "validity": "01/01/2026 to 03/31/2026"
-  },
-  {
-    "brand": "Fromm Pet Food",
-    "title": "Buy 1, Get 1 FREE on PurrSnickitty 3oz Cans",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxslaHA",
-    "validity": "01/01/2026 to 03/31/2026"
-  },
-  {
-    "brand": "Fromm Pet Food",
     "title": "Buy 1, Get 1 FREE on 6oz PurrSnickitty Dry Cat Food",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxslaDE",
     "validity": "01/01/2026 to 03/31/2026"
   },
   {
     "brand": "Fromm Pet Food",
+    "title": "$5.00 OFF 4lb & 10lb PurrSnickitty Dry Food",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxslaHB",
+    "validity": "01/01/2026 to 03/31/2026"
+  },
+  {
+    "brand": "Fromm Pet Food",
     "title": "FREE 6oz Crunchy Os with Gold Dog Dry Food Purchase",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxslaDD",
+    "validity": "01/01/2026 to 03/31/2026"
+  },
+  {
+    "brand": "Fromm Pet Food",
+    "title": "Buy 1, Get 1 FREE on PurrSnickitty 3oz Cans",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxslaHA",
     "validity": "01/01/2026 to 03/31/2026"
   },
   {
@@ -151,12 +151,6 @@
   },
   {
     "brand": "Nutri Source",
-    "title": "Buy 1, Get 1 FREE on Select Grain Free Cat Cans",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvXGfxslqjE",
-    "validity": "01/01/2026 to 01/31/2026"
-  },
-  {
-    "brand": "Nutri Source",
     "title": "Buy Select Dog Kibble & Treats, Get $12.00 OFF",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvXGfxslqnI",
     "validity": "01/01/2026 to 01/31/2026"
@@ -165,6 +159,12 @@
     "brand": "Nutri Source",
     "title": "Buy Cat Kibble, Get 2 FREE Select Cans",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvXGfxslqjG",
+    "validity": "01/01/2026 to 01/31/2026"
+  },
+  {
+    "brand": "Nutri Source",
+    "title": "Buy 1, Get 1 FREE on Select Grain Free Cat Cans",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvXGfxslqjE",
     "validity": "01/01/2026 to 01/31/2026"
   },
   {
