@@ -5,6 +5,34 @@ import json
 from urllib.parse import urljoin
 import time
 import sys
+from datetime import datetime
+
+def is_deal_valid(validity_string):
+    """Check if a deal is still valid based on its expiration date."""
+    if not validity_string:
+        return True  # If no date, assume valid
+    
+    try:
+        # Parse date range like "01/01/2026 to 01/31/2026" or "02/01/2026 to 02/28/2026"
+        if " to " in validity_string:
+            end_date_str = validity_string.split(" to ")[-1].strip()
+            # Parse date in MM/DD/YYYY format
+            end_date = datetime.strptime(end_date_str, "%m/%d/%Y")
+            # Check if end date is today or in the future
+            today = datetime.now().replace(hour=0, minute=0, second=0, microsecond=0)
+            return end_date >= today
+        else:
+            # If no "to" found, try to parse as single date
+            try:
+                end_date = datetime.strptime(validity_string.strip(), "%m/%d/%Y")
+                today = datetime.now().replace(hour=0, minute=0, second=0, microsecond=0)
+                return end_date >= today
+            except:
+                return True  # If can't parse, assume valid
+    except Exception as e:
+        # If parsing fails, assume valid to be safe
+        print(f"Warning: Could not parse validity date '{validity_string}': {e}")
+        return True
 
 def scrape_astro_deals(url, output_json="deals.json"):
     BASE_URL = "https://secure.astroloyalty.com"
@@ -23,6 +51,7 @@ def scrape_astro_deals(url, output_json="deals.json"):
 
     soup = BeautifulSoup(html, "html.parser")
     deals = []
+    expired_count = 0
 
     for offer in soup.select(".offer_box"):
         img_tag = offer.select_one("img")
@@ -44,12 +73,19 @@ def scrape_astro_deals(url, output_json="deals.json"):
                 date_range = ""
         else:
             date_range = ""
-        deals.append({
-            "brand": brand,
-            "title": title,
-            "image": image,
-            "validity": date_range
-        })
+        
+        # Only add deal if it's still valid
+        if is_deal_valid(date_range):
+            deals.append({
+                "brand": brand,
+                "title": title,
+                "image": image,
+                "validity": date_range
+            })
+        else:
+            expired_count += 1
+
+    print(f"Found {len(deals)} active deals, filtered out {expired_count} expired deals")
 
     with open(output_json, "w") as f:
         json.dump(deals, f, indent=2)
