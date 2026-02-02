@@ -8,6 +8,11 @@ on:
 permissions:
   contents: write
 
+# Prevent multiple runs from queuing up
+concurrency:
+  group: scrape-deals
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
