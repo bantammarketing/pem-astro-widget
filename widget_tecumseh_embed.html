@@ -38,7 +38,9 @@
 </style>
 <div id="astro-deals-grid"></div>
 <script>
-fetch('https://bantammarketing.github.io/pem-astro-widget/deals_wags_tecumseh.json')
+fetch('https://raw.githubusercontent.com/bantammarketing/pem-astro-widget/main/deals_wags_tecumseh.json?t=' + Date.now(), {
+  cache: 'no-cache'
+})
   .then(res => res.json())
   .then(deals => {
     const grid = document.getElementById('astro-deals-grid');
