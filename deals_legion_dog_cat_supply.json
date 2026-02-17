@@ -30,6 +30,12 @@
     "validity": "02/01/2026 to 02/28/2026"
   },
   {
+    "brand": "earthbath",
+    "title": "Buy 3 Products, Get $4.00 OFF",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy7WBuBvlqDDIg%3D%3D",
+    "validity": "04/01/2026 to 04/30/2026"
+  },
+  {
     "brand": "Earthborn Holistic",
     "title": "Buy a 25lb Bag, Get a Chewy Treat FREE!",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvWGfxslKjD",
@@ -37,14 +43,14 @@
   },
   {
     "brand": "Fromm Pet Food",
-    "title": "FREE 6oz Crunchy Os with Gold Dog Dry Food Purchase",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxslaDD",
+    "title": "$5.00 OFF 4lb & 10lb PurrSnickitty Dry Food",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxslaHB",
     "validity": "01/01/2026 to 03/31/2026"
   },
   {
     "brand": "Fromm Pet Food",
-    "title": "$5.00 OFF 4lb & 10lb PurrSnickitty Dry Food",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxslaHB",
+    "title": "FREE 6oz Crunchy Os with Gold Dog Dry Food Purchase",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxslaDD",
     "validity": "01/01/2026 to 03/31/2026"
   },
   {
@@ -85,14 +91,50 @@
   },
   {
     "brand": "Nulo",
+    "title": "FREE 4oz Trainer Treat with Qualifying Kibble Purchase!",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3WGfxskq3J",
+    "validity": "03/01/2026 to 04/30/2026"
+  },
+  {
+    "brand": "Nulo",
     "title": "Dollars OFF Dry Dog Food",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3WGfxsl67G",
     "validity": "01/01/2026 to 02/28/2026"
   },
   {
+    "brand": "Nulo",
+    "title": "Buy 4, Get 1 FREE on Dog & Cat Wet Food Products!",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3WGfxskq%2FB",
+    "validity": "03/01/2026 to 04/30/2026"
+  },
+  {
+    "brand": "Nutri Source",
+    "title": "Buy Cat Kibble, Get 2 Select Cat Cans FREE!",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvXGfxskqDB",
+    "validity": "03/01/2026 to 03/31/2026"
+  },
+  {
+    "brand": "Nutri Source & Pure Vita",
+    "title": "Buy Dog Kibble, Get a FREE Jivin' Jerky Treat",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvXGfxskqDC",
+    "validity": "03/01/2026 to 03/31/2026"
+  },
+  {
+    "brand": "Nutri Source & Pure Vita",
+    "title": "Buy 1, Get 1 FREE on Jivin' Jerky",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvXGfxskqDD",
+    "validity": "03/01/2026 to 03/31/2026"
+  },
+  {
     "brand": "Nutrisource",
     "title": "Buy 1, Get 1 FREE on Select Choice Cans",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvXGfxslKjG",
+    "validity": "02/01/2026 to 02/28/2026"
+  },
+  {
+    "brand": "NutriSource",
+    "title": "Buy Select Kibble & Cans, Save $9.00!",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvXGfxslKnC",
     "validity": "02/01/2026 to 02/28/2026"
   },
   {
@@ -102,9 +144,9 @@
     "validity": "02/01/2026 to 02/28/2026"
   },
   {
-    "brand": "NutriSource",
-    "title": "Buy Select Kibble & Cans, Save $9.00!",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvXGfxslKnC",
+    "brand": "Open Farm",
+    "title": "Buy 5, Get 1 FREE on Dog Wet Food",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDRGfxskq3H",
     "validity": "02/01/2026 to 02/28/2026"
   },
   {
@@ -115,9 +157,39 @@
   },
   {
     "brand": "Open Farm",
-    "title": "Buy 5, Get 1 FREE on Dog Wet Food",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDRGfxskq3H",
-    "validity": "02/01/2026 to 02/28/2026"
+    "title": "Buy 4, Get 1 FREE on Select Wet Dog Food",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDRGfxsn6rF",
+    "validity": "03/01/2026 to 03/31/2026"
+  },
+  {
+    "brand": "Open Farm",
+    "title": "$5.00 OFF Select Dry Cat Food Recipes",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDRGfxsn6rC",
+    "validity": "03/01/2026 to 03/31/2026"
+  },
+  {
+    "brand": "Open Farm",
+    "title": "Buy 3, Get 1 FREE on Select Wet Cat Food",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDRGfxsn6rG",
+    "validity": "03/01/2026 to 03/31/2026"
+  },
+  {
+    "brand": "Pet House |  One Fur All Pets",
+    "title": "FREE Mini Candle with Purchase of 9oz Candle",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzQA%2BBvlqDBIw%3D%3D",
+    "validity": "03/03/2026 to 03/09/2026"
+  },
+  {
+    "brand": "Primal Pet Foods",
+    "title": "Dollars OFF Dehydrated Goat Milk",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3XGfxsn6DG",
+    "validity": "04/01/2026 to 04/30/2026"
+  },
+  {
+    "brand": "Primal Pet Foods",
+    "title": "Dollars OFF Frozen Pronto",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3XGfxsk6HC",
+    "validity": "03/01/2026 to 03/31/2026"
   },
   {
     "brand": "Primal Pet Foods",
@@ -132,9 +204,33 @@
     "validity": "02/01/2026 to 02/28/2026"
   },
   {
+    "brand": "PureVita",
+    "title": "Buy 1, Get 1 FREE on Select Dog Cans",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvXGfxskqDJ",
+    "validity": "03/01/2026 to 03/31/2026"
+  },
+  {
+    "brand": "Raw Dog",
+    "title": "$3.00 OFF 10in Bully Flavor Collagen Bones",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzSA%2BBvlq3GJg%3D%3D",
+    "validity": "03/01/2026 to 03/31/2026"
+  },
+  {
     "brand": "Raw Dog",
     "title": "$2.00 OFF Monster Femur Bones",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzSA%2BBvlqrGIg%3D%3D",
+    "validity": "02/01/2026 to 02/28/2026"
+  },
+  {
+    "brand": "Raw Dog",
+    "title": "$2.00 OFF 6pk Trachea Chews",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzSA%2BBvlq3GIQ%3D%3D",
+    "validity": "03/01/2026 to 03/31/2026"
+  },
+  {
+    "brand": "Raw Dog",
+    "title": "$5.00 OFF 12in Low Odor Regular Bully Sticks 3-Pack",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzSA%2BBvlqrGIw%3D%3D",
     "validity": "02/01/2026 to 02/28/2026"
   },
   {
@@ -145,15 +241,21 @@
   },
   {
     "brand": "Raw Dog",
-    "title": "$5.00 OFF 12in Low Odor Regular Bully Sticks 3-Pack",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzSA%2BBvlqrGIw%3D%3D",
-    "validity": "02/01/2026 to 02/28/2026"
+    "title": "$2.00 OFF 6oz Beefy Chews",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzSA%2BBvlq3GIw%3D%3D",
+    "validity": "03/01/2026 to 03/31/2026"
   },
   {
     "brand": "Redbarn INC",
     "title": "$5.00 OFF Redbarn Dur-A-Bulls Multipack Bags",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDWGfxsl6rF",
     "validity": "01/01/2026 to 02/28/2026"
+  },
+  {
+    "brand": "Skout's Honor",
+    "title": "$2.00 OFF Select Cleaning & Training Products",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrQA%2BBvlq3EJw%3D%3D",
+    "validity": "03/01/2026 to 03/31/2026"
   },
   {
     "brand": "Skout's Honor",
@@ -174,10 +276,22 @@
     "validity": "02/01/2026 to 02/28/2026"
   },
   {
+    "brand": "Tall Tails (3T Brands)",
+    "title": "Earn Double Punches on Toys!",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QDuBvlqDEIA%3D%3D",
+    "validity": "04/10/2026 to 04/19/2026"
+  },
+  {
     "brand": "Territory",
     "title": "Buy 2 Toys, Get $3.00 OFF",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QDuBvlqrIJA%3D%3D",
     "validity": "02/01/2026 to 02/28/2026"
+  },
+  {
+    "brand": "The Honest Kitchen",
+    "title": "Earn Double Punches!",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy7SGfxskaDE",
+    "validity": "03/01/2026 to 03/31/2026"
   },
   {
     "brand": "The Honest Kitchen",
@@ -186,16 +300,58 @@
     "validity": "02/01/2026 to 02/28/2026"
   },
   {
+    "brand": "The Honest Kitchen",
+    "title": "Buy 3, Get 1 FREE on Select Products",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy7SGfxskaHA",
+    "validity": "03/01/2026 to 03/31/2026"
+  },
+  {
+    "brand": "The Lazy Dog",
+    "title": "$1.00 OFF Pup-PIES!",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzVBOBvlqDJIw%3D%3D",
+    "validity": "04/01/2026 to 04/30/2026"
+  },
+  {
     "brand": "The Lazy Dog Cookie Co Inc.",
     "title": "$1.00 OFF Select Treats!",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzVBOBvlqnDIg%3D%3D",
     "validity": "02/01/2026 to 02/28/2026"
   },
   {
+    "brand": "Tiki Cat",
+    "title": "Buy 6, Get 3 FREE on Solutions Mousse & Toppers",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynWBuBvlqDCKg%3D%3D",
+    "validity": "04/01/2026 to 04/14/2026"
+  },
+  {
     "brand": "Vital Essentials",
     "title": "$7.00 OFF 12oz Freeze-Dried Cat Soft Nibs",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynUDuBvlq7FKw%3D%3D",
     "validity": "03/01/2026 to 03/31/2026"
+  },
+  {
+    "brand": "Vital Essentials",
+    "title": "$7.00 OFF14oz Freeze-Dried Dog Soft Nibs",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynUDuBvlq7HJQ%3D%3D",
+    "validity": "03/01/2026 to 03/31/2026"
+  },
+  {
+    "brand": "Wondercide",
+    "title": "$5.00 OFF Flea & Tick Yard & Garden Products",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy7WDuBvlqDIIw%3D%3D",
+    "validity": "04/01/2026 to 04/30/2026"
+  },
+  {
+    "brand": "Wondercide",
+    "title": "$6.00 OFF a Qualifying Flea and Tick Purchase!",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy7WDuBvlq7HJg%3D%3D",
+    "validity": "03/01/2026 to 03/31/2026"
+  },
+  {
+    "brand": "Woof Pet",
+    "title": "Buy DualPlay, Get $5.00 OFF Puzzle Treats",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3VBuBvlq7IIw%3D%3D",
+    "validity": "03/14/2026 to 03/21/2026"
   },
   {
     "brand": "Woof Pet",
