@@ -13,20 +13,14 @@
   },
   {
     "brand": "Champion Pet Foods",
-    "title": "Buy 4, Get 2 FREE on Wet Dog and Cat Food",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzfGfxskKHE",
-    "validity": "03/19/2026 to 04/01/2026"
-  },
-  {
-    "brand": "Champion Pet Foods",
     "title": "Dollars OFF Dry Cat Food",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzfGfxskKHC",
     "validity": "03/19/2026 to 04/01/2026"
   },
   {
     "brand": "Champion Pet Foods",
-    "title": "Dollars OFF Select Dry Dog Food",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzfGfxskKHB",
+    "title": "Buy 4, Get 2 FREE on Wet Dog and Cat Food",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzfGfxskKHE",
     "validity": "03/19/2026 to 04/01/2026"
   },
   {
@@ -36,15 +30,27 @@
     "validity": "03/19/2026 to 04/01/2026"
   },
   {
+    "brand": "Champion Pet Foods",
+    "title": "Dollars OFF Select Dry Dog Food",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzfGfxskKHB",
+    "validity": "03/19/2026 to 04/01/2026"
+  },
+  {
+    "brand": "Farmina",
+    "title": "Buy 3, Get 1 FREE on N&D Dental Treats and Wet Food",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDQGfxsnqvD",
+    "validity": "03/01/2026 to 03/31/2026"
+  },
+  {
+    "brand": "FirstMate & KASIKS",
+    "title": "Dollars OFF Lamb Kibble Diets for Dogs",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyHXGfxsn6DF",
+    "validity": "04/01/2026 to 04/30/2026"
+  },
+  {
     "brand": "Fromm Family Foods",
     "title": "Buy 2, Get 1 FREE on 16oz Chubs",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxslaDC",
-    "validity": "01/01/2026 to 03/31/2026"
-  },
-  {
-    "brand": "Fromm Pet Food",
-    "title": "Buy 1, Get 1 FREE on 6oz PurrSnickitty Dry Cat Food",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxslaDE",
     "validity": "01/01/2026 to 03/31/2026"
   },
   {
@@ -60,16 +66,10 @@
     "validity": "01/01/2026 to 03/31/2026"
   },
   {
-    "brand": "K9 Natural and Feline Natural",
-    "title": "$20.00 OFF 4lb Freeze-Dried Bags",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynVAOBvlqvBJA%3D%3D",
-    "validity": "02/01/2026 to 02/28/2026"
-  },
-  {
-    "brand": "K9 Natural and Feline Natural",
-    "title": "$8.00 OFF 11oz-17.6oz Freeze-Dried Bags",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynVAOBvlqvBJg%3D%3D",
-    "validity": "02/01/2026 to 02/28/2026"
+    "brand": "Fromm Pet Food",
+    "title": "Buy 1, Get 1 FREE on 6oz PurrSnickitty Dry Cat Food",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxslaDE",
+    "validity": "01/01/2026 to 03/31/2026"
   },
   {
     "brand": "Primal Pet Foods",
@@ -79,26 +79,8 @@
   },
   {
     "brand": "The Honest Kitchen",
-    "title": "$15.00 OFF 7lb-10lb Wholemade and 18lb-20lb Clusters",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy7SGfxslaDI",
-    "validity": "02/01/2026 to 02/28/2026"
-  },
-  {
-    "brand": "The Honest Kitchen",
     "title": "Earn Double Punches",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy7SGfxskaHG",
     "validity": "03/31/2026 to 03/31/2026"
-  },
-  {
-    "brand": "Whimzees",
-    "title": "",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynXBeBvlqzAKw%3D%3D",
-    "validity": "02/01/2026 to 02/28/2026"
-  },
-  {
-    "brand": "Whimzees",
-    "title": "Buy 1, Get 1 FREE on 2oz Cat Dental Treats",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynXBeBvlqzAKg%3D%3D",
-    "validity": "02/01/2026 to 02/28/2026"
   }
 ]
