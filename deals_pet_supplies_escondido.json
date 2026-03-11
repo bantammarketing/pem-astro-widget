@@ -13,14 +13,8 @@
   },
   {
     "brand": "Blue Buffalo",
-    "title": "$2.00 OFF Wilderness Dry Dog Food",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrUGfxskaHI",
-    "validity": "03/01/2026 to 03/31/2026"
-  },
-  {
-    "brand": "Blue Buffalo",
-    "title": "$2.00 OFF Wilderness Dry Cat Food",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrUGfxskKjB",
+    "title": "$2.00 OFF Wilderness Dog Treats",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrUGfxskKjA",
     "validity": "03/01/2026 to 03/31/2026"
   },
   {
@@ -31,8 +25,14 @@
   },
   {
     "brand": "Blue Buffalo",
-    "title": "$2.00 OFF Wilderness Dog Treats",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrUGfxskKjA",
+    "title": "$2.00 OFF Wilderness Dry Dog Food",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrUGfxskaHI",
+    "validity": "03/01/2026 to 03/31/2026"
+  },
+  {
+    "brand": "Blue Buffalo",
+    "title": "$2.00 OFF Wilderness Dry Cat Food",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrUGfxskKjB",
     "validity": "03/01/2026 to 03/31/2026"
   },
   {
@@ -91,14 +91,14 @@
   },
   {
     "brand": "Fromm Pet Food",
-    "title": "Buy 1, Get 1 FREE on 6oz PurrSnickitty Dry Cat Food",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxslaDE",
+    "title": "Buy 1, Get 1 FREE on PurrSnickitty 3oz Cans",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxslaHA",
     "validity": "01/01/2026 to 03/31/2026"
   },
   {
     "brand": "Fromm Pet Food",
-    "title": "Buy 1, Get 1 FREE on PurrSnickitty 3oz Cans",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxslaHA",
+    "title": "Buy 1, Get 1 FREE on 6oz PurrSnickitty Dry Cat Food",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxslaDE",
     "validity": "01/01/2026 to 03/31/2026"
   },
   {
@@ -115,12 +115,6 @@
   },
   {
     "brand": "INSTINCT",
-    "title": "$6.00 OFF 5.4lb-6lb Instinct Raw Frozen Bites & Patties for Dogs",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzXGfxskKnC",
-    "validity": "03/01/2026 to 03/31/2026"
-  },
-  {
-    "brand": "INSTINCT",
     "title": "$3.00 OFF 16oz FreshRaw Meals",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzXGfxskKrD",
     "validity": "03/01/2026 to 03/31/2026"
@@ -129,6 +123,12 @@
     "brand": "INSTINCT",
     "title": "$3.00 OFF NEW 3oz Freeze-Dried Raw Meals for Dogs",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzXGfxskKrC",
+    "validity": "03/01/2026 to 03/31/2026"
+  },
+  {
+    "brand": "INSTINCT",
+    "title": "$6.00 OFF 5.4lb-6lb Instinct Raw Frozen Bites & Patties for Dogs",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzXGfxskKnC",
     "validity": "03/01/2026 to 03/31/2026"
   },
   {
@@ -157,14 +157,26 @@
   },
   {
     "brand": "Nutri Source & Pure Vita",
+    "title": "Buy 1, Get 1 FREE on Jivin' Jerky",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvXGfxskqDD",
+    "validity": "03/01/2026 to 03/31/2026"
+  },
+  {
+    "brand": "Nutri Source & Pure Vita",
     "title": "Buy Dog Kibble, Get a FREE Jivin' Jerky Treat",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvXGfxskqDC",
     "validity": "03/01/2026 to 03/31/2026"
   },
   {
-    "brand": "Nutri Source & Pure Vita",
-    "title": "Buy 1, Get 1 FREE on Jivin' Jerky",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvXGfxskqDD",
+    "brand": "Open Farm",
+    "title": "$5.00 OFF Select Dry Cat Food Recipes",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDRGfxsn6rC",
+    "validity": "03/01/2026 to 03/31/2026"
+  },
+  {
+    "brand": "Open Farm",
+    "title": "Buy 4, Get 1 FREE on Select Wet Dog Food",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDRGfxsn6rF",
     "validity": "03/01/2026 to 03/31/2026"
   },
   {
@@ -177,18 +189,6 @@
     "brand": "Open Farm",
     "title": "Buy 3, Get 1 FREE on Select Wet Cat Food",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDRGfxsn6rG",
-    "validity": "03/01/2026 to 03/31/2026"
-  },
-  {
-    "brand": "Open Farm",
-    "title": "Buy 4, Get 1 FREE on Select Wet Dog Food",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDRGfxsn6rF",
-    "validity": "03/01/2026 to 03/31/2026"
-  },
-  {
-    "brand": "Open Farm",
-    "title": "$5.00 OFF Select Dry Cat Food Recipes",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDRGfxsn6rC",
     "validity": "03/01/2026 to 03/31/2026"
   },
   {
@@ -253,14 +253,14 @@
   },
   {
     "brand": "The Honest Kitchen",
-    "title": "Buy 3, Get 1 FREE on Select Products",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy7SGfxskaHA",
+    "title": "Earn Double Punches!",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy7SGfxskaDE",
     "validity": "03/01/2026 to 03/31/2026"
   },
   {
     "brand": "The Honest Kitchen",
-    "title": "Earn Double Punches!",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy7SGfxskaDE",
+    "title": "Buy 3, Get 1 FREE on Select Products",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy7SGfxskaHA",
     "validity": "03/01/2026 to 03/31/2026"
   },
   {
@@ -319,14 +319,14 @@
   },
   {
     "brand": "Zignature",
-    "title": "FREE Crunchy Treat with Purchase of Dry Dog Food",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzWGfxska%2FF",
+    "title": "Buy 1, Get 1 FREE on Zignature Crunchy Treats",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzWGfxska%2FG",
     "validity": "02/01/2026 to 03/31/2026"
   },
   {
     "brand": "Zignature",
-    "title": "Buy 1, Get 1 FREE on Zignature Crunchy Treats",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzWGfxska%2FG",
+    "title": "FREE Crunchy Treat with Purchase of Dry Dog Food",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzWGfxska%2FF",
     "validity": "02/01/2026 to 03/31/2026"
   }
 ]
