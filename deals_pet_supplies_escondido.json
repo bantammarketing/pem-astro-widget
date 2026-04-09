@@ -91,14 +91,14 @@
   },
   {
     "brand": "Farmina",
-    "title": "Dollars OFF Puppy, Kitten, and Senior Dry Food",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDQGfxvl6DA",
+    "title": "Dollars OFF N&D Quinoa, Brown, and White Dry Food",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDQGfxvl6%2FJ",
     "validity": "04/01/2026 to 04/30/2026"
   },
   {
     "brand": "Farmina",
-    "title": "Dollars OFF N&D Quinoa, Brown, and White Dry Food",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDQGfxvl6%2FJ",
+    "title": "Dollars OFF Puppy, Kitten, and Senior Dry Food",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDQGfxvl6DA",
     "validity": "04/01/2026 to 04/30/2026"
   },
   {
@@ -115,12 +115,6 @@
   },
   {
     "brand": "Fromm Pet Food",
-    "title": "Buy 1, Get 1 FREE on PurrSnickitty 3oz Cans",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxslaHA",
-    "validity": "01/01/2026 to 07/31/2026"
-  },
-  {
-    "brand": "Fromm Pet Food",
     "title": "Buy 1, Get 1 FREE on 6oz PurrSnickitty Dry Cat Food",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxslaDE",
     "validity": "01/01/2026 to 07/31/2026"
@@ -129,6 +123,12 @@
     "brand": "Fromm Pet Food",
     "title": "$5.00 OFF 4lb & 10lb PurrSnickitty Dry Food",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxslaHB",
+    "validity": "01/01/2026 to 07/31/2026"
+  },
+  {
+    "brand": "Fromm Pet Food",
+    "title": "Buy 1, Get 1 FREE on PurrSnickitty 3oz Cans",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxslaHA",
     "validity": "01/01/2026 to 07/31/2026"
   },
   {
@@ -289,14 +289,14 @@
   },
   {
     "brand": "Woof Pet",
-    "title": "Buy a Forager Toy, Get $5.00 OFF Puzzle Treats",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3VBuBvlq7IIw%3D%3D",
-    "validity": "05/16/2026 to 05/30/2026"
-  },
-  {
-    "brand": "Woof Pet",
     "title": "$5.00 OFF Woof Products",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3VBuBvlajGKg%3D%3D",
     "validity": "04/04/2026 to 04/11/2026"
+  },
+  {
+    "brand": "Woof Pet",
+    "title": "Buy a Forager Toy, Get $5.00 OFF Puzzle Treats",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3VBuBvlq7IIw%3D%3D",
+    "validity": "05/16/2026 to 05/30/2026"
   }
 ]
