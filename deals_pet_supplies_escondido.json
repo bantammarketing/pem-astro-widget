@@ -37,6 +37,12 @@
   },
   {
     "brand": "Fromm Pet Food",
+    "title": "$5.00 OFF 4lb & 10lb PurrSnickitty Dry Food",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxslaHB",
+    "validity": "01/01/2026 to 07/31/2026"
+  },
+  {
+    "brand": "Fromm Pet Food",
     "title": "Buy 1, Get 1 FREE on 6oz PurrSnickitty Dry Cat Food",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxslaDE",
     "validity": "01/01/2026 to 07/31/2026"
@@ -48,21 +54,9 @@
     "validity": "01/01/2026 to 07/31/2026"
   },
   {
-    "brand": "Fromm Pet Food",
-    "title": "$5.00 OFF 4lb & 10lb PurrSnickitty Dry Food",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxslaHB",
-    "validity": "01/01/2026 to 07/31/2026"
-  },
-  {
     "brand": "Fussie Cat",
     "title": "$10.00 OFF 10lb Market Fresh Turkey Recipe",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzWGfxvk6%2FD",
-    "validity": "05/01/2026 to 05/31/2026"
-  },
-  {
-    "brand": "Health Extension",
-    "title": "2 FREE 9oz Gently Cooked Pouches with Qualifying Kibble Purchase",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynTAuBvlavCKw%3D%3D",
     "validity": "05/01/2026 to 05/31/2026"
   },
   {
@@ -72,15 +66,21 @@
     "validity": "05/01/2026 to 05/31/2026"
   },
   {
-    "brand": "INSTINCT",
-    "title": "$12.00 OFF 24-25lb Be Natural Kibble for Dogs",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzXGfxvla3B",
+    "brand": "Health Extension",
+    "title": "2 FREE 9oz Gently Cooked Pouches with Qualifying Kibble Purchase",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynTAuBvlavCKw%3D%3D",
     "validity": "05/01/2026 to 05/31/2026"
   },
   {
     "brand": "INSTINCT",
     "title": "Buy 3, Get 1 FREE on 3oz & 5.5oz Cat Cans & Pouches",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzXGfxvlazI",
+    "validity": "05/01/2026 to 05/31/2026"
+  },
+  {
+    "brand": "INSTINCT",
+    "title": "$12.00 OFF 24-25lb Be Natural Kibble for Dogs",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzXGfxvla3B",
     "validity": "05/01/2026 to 05/31/2026"
   },
   {
@@ -109,14 +109,14 @@
   },
   {
     "brand": "Natural Balance",
-    "title": "$6.00 OFF Large Bags of Limited Ingredient Dry Dog Food",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvVGfxvlanI",
+    "title": "$2.00 OFF Dog Treats",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvVGfxvlanH",
     "validity": "05/01/2026 to 05/31/2026"
   },
   {
     "brand": "Natural Balance",
-    "title": "$2.00 OFF Dog Treats",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvVGfxvlanH",
+    "title": "$6.00 OFF Large Bags of Limited Ingredient Dry Dog Food",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvVGfxvlanI",
     "validity": "05/01/2026 to 05/31/2026"
   },
   {
@@ -241,14 +241,14 @@
   },
   {
     "brand": "Weruva",
-    "title": "Dollars OFF Fully Cooked Freeze Dried Cat Food",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy7fGfxvlK%2FD",
+    "title": "Dollars OFF Fully Cooked Freeze-Dried Dog Food",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy7fGfxvlK%2FC",
     "validity": "05/01/2026 to 06/30/2026"
   },
   {
     "brand": "Weruva",
-    "title": "Dollars OFF Fully Cooked Freeze-Dried Dog Food",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy7fGfxvlK%2FC",
+    "title": "Dollars OFF Fully Cooked Freeze Dried Cat Food",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy7fGfxvlK%2FD",
     "validity": "05/01/2026 to 06/30/2026"
   },
   {
@@ -259,26 +259,26 @@
   },
   {
     "brand": "Zignature",
-    "title": "$8.00 OFF 12.5lb Catfish & Whitefish Formulas",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzWGfxvk6%2FB",
-    "validity": "05/01/2026 to 05/31/2026"
-  },
-  {
-    "brand": "Zignature",
     "title": "Dollars OFF Puppy Formula Dry Dog Food",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzWGfxvk6%2FA",
     "validity": "05/01/2026 to 05/31/2026"
   },
   {
-    "brand": "Ziwi Peak",
-    "title": "$5.00 OFF 16oz Air-Dried Dog Recipes",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynTBuBvlarGIQ%3D%3D",
+    "brand": "Zignature",
+    "title": "$8.00 OFF 12.5lb Catfish & Whitefish Formulas",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzWGfxvk6%2FB",
     "validity": "05/01/2026 to 05/31/2026"
   },
   {
     "brand": "Ziwi Peak",
     "title": "$6.00 OFF 14oz Air-Dried Cat Recipes",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynTBuBvlarGJg%3D%3D",
+    "validity": "05/01/2026 to 05/31/2026"
+  },
+  {
+    "brand": "Ziwi Peak",
+    "title": "$5.00 OFF 16oz Air-Dried Dog Recipes",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynTBuBvlarGIQ%3D%3D",
     "validity": "05/01/2026 to 05/31/2026"
   }
 ]
