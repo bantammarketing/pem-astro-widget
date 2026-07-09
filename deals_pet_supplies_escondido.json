@@ -199,18 +199,6 @@
   },
   {
     "brand": "Fromm Pet Food",
-    "title": "FREE Can OR Select Treat with Qualifying Four-Star Salmon Tunalini Purchase",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxvlqrI",
-    "validity": "05/01/2026 to 07/31/2026"
-  },
-  {
-    "brand": "Fromm Pet Food",
-    "title": "$5.00 OFF 4lb & 10lb PurrSnickitty Dry Food",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxslaHB",
-    "validity": "01/01/2026 to 07/31/2026"
-  },
-  {
-    "brand": "Fromm Pet Food",
     "title": "Buy 1, Get 1 FREE on NEW 4lb Nutritionals Dry Dog Food!",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxvl6DH",
     "validity": "04/01/2026 to 07/31/2026"
@@ -226,6 +214,18 @@
     "title": "FREE Can OR Select Treat with Qualifying Four-Star Chicken Au Frommage Purchase",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxvlqrJ",
     "validity": "05/01/2026 to 07/31/2026"
+  },
+  {
+    "brand": "Fromm Pet Food",
+    "title": "FREE Can OR Select Treat with Qualifying Four-Star Salmon Tunalini Purchase",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxvlqrI",
+    "validity": "05/01/2026 to 07/31/2026"
+  },
+  {
+    "brand": "Fromm Pet Food",
+    "title": "$5.00 OFF 4lb & 10lb PurrSnickitty Dry Food",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxslaHB",
+    "validity": "01/01/2026 to 07/31/2026"
   },
   {
     "brand": "Fromm Pet Food",
@@ -427,26 +427,26 @@
   },
   {
     "brand": "Open Farm",
-    "title": "Buy 3, Get 1 FREE on All Dog Wet Food",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDRGfxvnqzC",
-    "validity": "07/01/2026 to 07/31/2026"
-  },
-  {
-    "brand": "Open Farm",
     "title": "Buy 3, Get 1 FREE on All Cat Wet Food",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDRGfxvnqzB",
     "validity": "07/01/2026 to 07/31/2026"
   },
   {
-    "brand": "ORIJEN",
-    "title": "Buy 3, Get 1 FREE on Wet Cat Food",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzfGfxul6jD",
-    "validity": "07/01/2026 to 08/31/2026"
+    "brand": "Open Farm",
+    "title": "Buy 3, Get 1 FREE on All Dog Wet Food",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDRGfxvnqzC",
+    "validity": "07/01/2026 to 07/31/2026"
   },
   {
     "brand": "ORIJEN",
     "title": "Buy 3, Get 1 FREE on Wet Dog Food",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzfGfxul6jC",
+    "validity": "07/01/2026 to 08/31/2026"
+  },
+  {
+    "brand": "ORIJEN",
+    "title": "Buy 3, Get 1 FREE on Wet Cat Food",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzfGfxul6jD",
     "validity": "07/01/2026 to 08/31/2026"
   },
   {
