@@ -19,9 +19,21 @@
   },
   {
     "brand": "Bocce's Bakery",
+    "title": "$1.00 OFF Select Crunchy Biscuits",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvWB%2BBvlKrIJg%3D%3D",
+    "validity": "08/01/2026 to 08/31/2026"
+  },
+  {
+    "brand": "Bocce's Bakery",
     "title": "$1.00 OFF Everyday Soft & Chewy Treats",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvWB%2BBvlaDEJg%3D%3D",
     "validity": "07/01/2026 to 07/31/2026"
+  },
+  {
+    "brand": "Bocce's Bakery",
+    "title": "$1.00 OFF Everyday Crunchy Biscuits",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvWB%2BBvlKrIIQ%3D%3D",
+    "validity": "08/01/2026 to 08/31/2026"
   },
   {
     "brand": "Boxiecat",
@@ -54,6 +66,18 @@
     "validity": "07/01/2026 to 07/31/2026"
   },
   {
+    "brand": "Dr. Marty's",
+    "title": "Dollars OFF NEW Sensitivity Selects Small Bites",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3fAuBvlaHCKg%3D%3D",
+    "validity": "06/01/2026 to 07/31/2026"
+  },
+  {
+    "brand": "Dr. Marty's",
+    "title": "Dollars OFF Select Nature's Blend Formulas",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3fAuBvlKrIKw%3D%3D",
+    "validity": "07/01/2026 to 07/31/2026"
+  },
+  {
     "brand": "Earthbath",
     "title": "$2.00 OFF Grooming Sprays",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy7WBuBvla%2FAJQ%3D%3D",
@@ -72,16 +96,22 @@
     "validity": "05/01/2026 to 07/31/2026"
   },
   {
+    "brand": "Fromm",
+    "title": "Buy 5, Get 1 FREE on All 3oz Cat Food Cans",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxula7A",
+    "validity": "08/01/2026 to 10/31/2026"
+  },
+  {
     "brand": "Fromm Family Foods",
     "title": "Buy 5, Get 1 FREE on Select Fromm Dog Food Cans",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxvkaHJ",
     "validity": "07/01/2026 to 07/31/2026"
   },
   {
-    "brand": "Fromm Family Foods",
-    "title": "Buy 5, Get 1 FREE on Select Cat Food Cans",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxvkKjA",
-    "validity": "07/01/2026 to 07/31/2026"
+    "brand": "Fromm Pet Food",
+    "title": "Buy 5, Get 1 FREE on All Dog Food Cans",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxula7B",
+    "validity": "08/01/2026 to 10/31/2026"
   },
   {
     "brand": "Fromm Pet Food",
@@ -114,10 +144,28 @@
     "validity": "04/01/2026 to 07/31/2026"
   },
   {
+    "brand": "Fromm+Family+Foods",
+    "title": "Buy 5, Get 1 FREE on Select Cat Food Cans",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxvkKjA",
+    "validity": "07/01/2026 to 07/31/2026"
+  },
+  {
+    "brand": "Fussie Cat",
+    "title": "Buy 3, Get 1 FREE on Select Cat Cans",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzWGfxuk67E",
+    "validity": "08/01/2026 to 08/31/2026"
+  },
+  {
     "brand": "Green Juju Kitchen",
     "title": "$3.00 OFF Bone Broth",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyneB%2BBvlaDGJg%3D%3D",
     "validity": "07/01/2026 to 07/31/2026"
+  },
+  {
+    "brand": "Inaba",
+    "title": "$1.00 OFF Churu Sprinkles Cat Treats",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3SD%2BBvlKnGJg%3D%3D",
+    "validity": "08/01/2026 to 08/31/2026"
   },
   {
     "brand": "KONG",
@@ -130,6 +178,24 @@
     "title": "$1.00 OFF Any Product",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzVBOBvlKjHKw%3D%3D",
     "validity": "08/01/2026 to 08/31/2026"
+  },
+  {
+    "brand": "New Zealand Natural Pet Food Company",
+    "title": "$3.00 OFF Green Tripe Toppers!",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyveBOBvlKnGJw%3D%3D",
+    "validity": "08/01/2026 to 08/31/2026"
+  },
+  {
+    "brand": "New Zealand Natural Pet Food Company",
+    "title": "$3.00 OFF Woof Toppers",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyveBOBvlaHEIg%3D%3D",
+    "validity": "07/01/2026 to 07/31/2026"
+  },
+  {
+    "brand": "Nulo",
+    "title": "Dollars OFF Dry Cat Food",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3WGfxukqrF",
+    "validity": "09/01/2026 to 09/30/2026"
   },
   {
     "brand": "Nulo",
@@ -169,9 +235,33 @@
   },
   {
     "brand": "Open Farm",
+    "title": "$7.00 OFF Select Gently Cooked Dog Food Recipes",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDRGfxulazC",
+    "validity": "08/01/2026 to 08/31/2026"
+  },
+  {
+    "brand": "Open Farm",
+    "title": "$6.00 OFF Select Freeze-Dried Raw for Dogs",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDRGfxulazG",
+    "validity": "08/01/2026 to 08/31/2026"
+  },
+  {
+    "brand": "Open Farm",
     "title": "Buy 1, Get 1 FREE 28oz Gently Cooked Goodbowl Rolls",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDRGfxul6rB",
     "validity": "07/01/2026 to 07/31/2026"
+  },
+  {
+    "brand": "Open Farm",
+    "title": "$5.00 OFF 3.5lb Epic Blend Dog Food Recipes",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDRGfxulazA",
+    "validity": "08/01/2026 to 08/31/2026"
+  },
+  {
+    "brand": "Pet Releaf",
+    "title": "Dollars OFF Daily Releaf Oils",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrSDuBvlKrHJg%3D%3D",
+    "validity": "08/01/2026 to 08/31/2026"
   },
   {
     "brand": "Primal Pet Foods",
@@ -181,14 +271,14 @@
   },
   {
     "brand": "Pure Vita",
-    "title": "Buy 1. Get 1 FREE on Select Cat Cans",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvXGfxvkK7D",
+    "title": "Buy Dog Kibble, Get a FREE Dog Can",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvXGfxvkK7C",
     "validity": "07/01/2026 to 07/31/2026"
   },
   {
     "brand": "Pure Vita",
-    "title": "Buy Dog Kibble, Get a FREE Dog Can",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvXGfxvkK7C",
+    "title": "Buy 1. Get 1 FREE on Select Cat Cans",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvXGfxvkK7D",
     "validity": "07/01/2026 to 07/31/2026"
   },
   {
@@ -200,8 +290,32 @@
   {
     "brand": "Raw Dog",
     "title": "Buy 1, Get 1 FREE on Select Chews!",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzSA%2BBvlaHFKg%3D%3D",
-    "validity": "07/25/2026 to 07/25/2026"
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzSA%2BBvlKrFJA%3D%3D",
+    "validity": "08/29/2026 to 08/29/2026"
+  },
+  {
+    "brand": "Raw Dog",
+    "title": "Buy 3, Get 1 FREE on Cow Ears with Hair",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzSA%2BBvlKrFJg%3D%3D",
+    "validity": "08/01/2026 to 08/31/2026"
+  },
+  {
+    "brand": "Raw Dog",
+    "title": "Neighborhood Pet Store Day",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzSA%2BBvlKzIJA%3D%3D",
+    "validity": "09/25/2026 to 09/27/2026"
+  },
+  {
+    "brand": "Raw Dog",
+    "title": "Buy 5, Get 1 FREE on Cow Ears",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzSA%2BBvlKzIJg%3D%3D",
+    "validity": "09/01/2026 to 09/30/2026"
+  },
+  {
+    "brand": "Raw Dog",
+    "title": "$5.00 OFF 8oz Bully Chews",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzSA%2BBvlKzIIQ%3D%3D",
+    "validity": "09/01/2026 to 09/30/2026"
   },
   {
     "brand": "Skouts Honor",
@@ -216,10 +330,40 @@
     "validity": "07/01/2026 to 08/31/2026"
   },
   {
+    "brand": "Tall Tails",
+    "title": "Buy 2 Plush Toys, Get $5.00 OFF",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QDuBvlKnEIQ%3D%3D",
+    "validity": "08/01/2026 to 08/31/2026"
+  },
+  {
+    "brand": "Tall Tails & Territory",
+    "title": "Buy 2, Get 1 FREE on Toys!",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QDuBvlKzHKg%3D%3D",
+    "validity": "09/25/2026 to 09/27/2026"
+  },
+  {
+    "brand": "The Honest Kitchen",
+    "title": "$10.00 OFF All Sizes of Wholemade and Clusters",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy7SGfxulKnB",
+    "validity": "08/01/2026 to 08/31/2026"
+  },
+  {
+    "brand": "The Lazy Dog Cookie Co Inc.",
+    "title": "$1.00 OFF Operation Drool Overload",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzVBOBvla%2FIJw%3D%3D",
+    "validity": "07/01/2026 to 07/31/2026"
+  },
+  {
     "brand": "Treat Planet (Etta Says)",
     "title": "Buy 4, Get 1 FREE on Yumm Sticks",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDXGfxvkKjC",
     "validity": "07/01/2026 to 07/31/2026"
+  },
+  {
+    "brand": "Vital Essentials",
+    "title": "$5.00 OFF 12oz Freeze-Dried Cat Micro Nibs",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynUDuBvlaDIIw%3D%3D",
+    "validity": "08/01/2026 to 08/31/2026"
   },
   {
     "brand": "Whitebridge Brands",
@@ -244,5 +388,17 @@
     "title": "$4.00 OFF Calming Products",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3VBuBvla3AIA%3D%3D",
     "validity": "06/27/2026 to 07/31/2026"
+  },
+  {
+    "brand": "Zesty Paws",
+    "title": "Dollars OFF Select Supplements",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzUDuBvlKvCKw%3D%3D",
+    "validity": "08/01/2026 to 08/31/2026"
+  },
+  {
+    "brand": "Zignature",
+    "title": "FREE Soft Moist Treat or Crunchy Treat with Purchase of Dry Dog Food",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzWGfxulavH",
+    "validity": "08/01/2026 to 08/31/2026"
   }
 ]
