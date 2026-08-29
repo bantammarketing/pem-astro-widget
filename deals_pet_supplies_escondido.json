@@ -121,6 +121,18 @@
   },
   {
     "brand": "Blue Buffalo",
+    "title": "$2.00 OFF Dog Treats",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrUGfxuka3D",
+    "validity": "09/01/2026 to 09/30/2026"
+  },
+  {
+    "brand": "Blue Buffalo",
+    "title": "$5.00 OFF Select Dry Dog Food",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrUGfxuka3C",
+    "validity": "09/01/2026 to 09/30/2026"
+  },
+  {
+    "brand": "Blue Buffalo",
     "title": "$6.00 OFF Large Bags of Wilderness Dry Dog Food",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrUGfxvn6rD",
     "validity": "06/01/2026 to 08/30/2026"
@@ -145,12 +157,6 @@
   },
   {
     "brand": "Blue Buffalo",
-    "title": "$5.00 OFF Select Dry Dog Food",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrUGfxuka3C",
-    "validity": "09/01/2026 to 09/30/2026"
-  },
-  {
-    "brand": "Blue Buffalo",
     "title": "$4.00 OFF Select LPF Puppy Recipes",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrUGfxukKzE",
     "validity": "09/01/2026 to 11/29/2026"
@@ -172,12 +178,6 @@
     "title": "$1.00 OFF Wilderness Cat Treats",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrUGfxulKjI",
     "validity": "08/01/2026 to 08/31/2026"
-  },
-  {
-    "brand": "Blue Buffalo",
-    "title": "$2.00 OFF Dog Treats",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrUGfxuka3D",
-    "validity": "09/01/2026 to 09/30/2026"
   },
   {
     "brand": "Blue Buffalo",
@@ -613,15 +613,15 @@
   },
   {
     "brand": "Intersand",
-    "title": "Dollars OFF OdorLock 'Baby Powder' Litter",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynRB%2BBvlK3CIw%3D%3D",
-    "validity": "09/01/2026 to 09/24/2026"
-  },
-  {
-    "brand": "Intersand",
     "title": "FREE Maxcare Granules with Qualifying Odorlock Purchase!",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynRB%2BBvlKnAJw%3D%3D",
     "validity": "08/01/2026 to 08/31/2026"
+  },
+  {
+    "brand": "Intersand",
+    "title": "Dollars OFF OdorLock 'Baby Powder' Litter",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynRB%2BBvlK3CIw%3D%3D",
+    "validity": "09/01/2026 to 09/24/2026"
   },
   {
     "brand": "Intersand",
@@ -1117,6 +1117,12 @@
   },
   {
     "brand": "Vetericyn by Innovacyn, Inc.",
+    "title": "$3.00 OFF Select Feline Products!",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvUD%2BBvlKDDKg%3D%3D",
+    "validity": "10/01/2026 to 12/31/2026"
+  },
+  {
+    "brand": "Vetericyn by Innovacyn, Inc.",
     "title": "$3.00 OFF Select Products",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvUD%2BBvla7JIw%3D%3D",
     "validity": "07/01/2026 to 09/30/2026"
@@ -1140,15 +1146,123 @@
     "validity": "08/01/2026 to 08/31/2026"
   },
   {
+    "brand": "Vital Essentials",
+    "title": "Neighborhood Pet Store Day",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynUDuBvlK3IJA%3D%3D",
+    "validity": "09/25/2026 to 09/27/2026"
+  },
+  {
+    "brand": "Vital Essentials",
+    "title": "Neighborhood Pet Store Day",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynUDuBvlK3IJw%3D%3D",
+    "validity": "09/25/2026 to 09/27/2026"
+  },
+  {
+    "brand": "Wellness Pet Food and Whimzees (Well Pet)",
+    "title": "Neighborhood Pet Store Day",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynXBeBvlK3AIQ%3D%3D",
+    "validity": "09/25/2026 to 09/27/2026"
+  },
+  {
+    "brand": "Wellness Pet Food and Whimzees (Well Pet)",
+    "title": "Neighborhood Pet Store Day",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynXBeBvlK3AIw%3D%3D",
+    "validity": "09/25/2026 to 09/27/2026"
+  },
+  {
+    "brand": "Wellness Pet Food and Whimzees (Well Pet)",
+    "title": "Buy 3, Get 1 FREE on 2.8oz Signature Select",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynXBeBvlK3BJA%3D%3D",
+    "validity": "09/01/2026 to 09/30/2026"
+  },
+  {
+    "brand": "Wellness Pet Food and Whimzees (Well Pet)",
+    "title": "Neighborhood Pet Store Day",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynXBeBvlK7IJw%3D%3D",
+    "validity": "09/25/2026 to 09/27/2026"
+  },
+  {
+    "brand": "Weruva Inc.",
+    "title": "Dollars OFF Fully Cooked Freeze-Dried Dog Food",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy7fGfxuk6HC",
+    "validity": "09/01/2026 to 09/30/2026"
+  },
+  {
+    "brand": "Weruva Inc.",
+    "title": "Neighborhood Pet Store Day",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy7fGfxuk6HF",
+    "validity": "09/25/2026 to 09/27/2026"
+  },
+  {
+    "brand": "Weruva Inc.",
+    "title": "Neighborhood Pet Store Day",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy7fGfxuk6HG",
+    "validity": "09/25/2026 to 09/27/2026"
+  },
+  {
+    "brand": "Weruva Inc.",
+    "title": "Neighborhood Pet Store Day",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy7fGfxuk6HE",
+    "validity": "09/25/2026 to 09/27/2026"
+  },
+  {
+    "brand": "Weruva Inc.",
+    "title": "Dollars OFF Fully Cooked Freeze Dried Cat Food",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy7fGfxuk6HD",
+    "validity": "09/01/2026 to 09/30/2026"
+  },
+  {
     "brand": "Wondercide",
     "title": "$5.00 OFF Flea & Tick Yard & Garden Products",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy7WDuBvlKnAIQ%3D%3D",
     "validity": "08/01/2026 to 08/31/2026"
   },
   {
+    "brand": "Wondercide",
+    "title": "$10.00 OFF 32oz Flea & Tick for Pets and Home Spray!",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy7WDuBvlK%2FDJw%3D%3D",
+    "validity": "09/25/2026 to 09/27/2026"
+  },
+  {
+    "brand": "Woof Pet",
+    "title": "Neighborhood Pet Store Day",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3VBuBvlKvIJA%3D%3D",
+    "validity": "09/25/2026 to 09/27/2026"
+  },
+  {
+    "brand": "Zignature",
+    "title": "Neighborhood Pet Store Day",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzWGfxukazJ",
+    "validity": "09/25/2026 to 09/27/2026"
+  },
+  {
     "brand": "Zignature",
     "title": "FREE Soft Moist Treat or Crunchy Treat with Purchase of Dry Dog Food",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzWGfxulavH",
     "validity": "08/01/2026 to 08/31/2026"
+  },
+  {
+    "brand": "Ziwi Peak",
+    "title": "Neighborhood Pet Store Day",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynTBuBvlKzDJw%3D%3D",
+    "validity": "09/21/2026 to 09/28/2026"
+  },
+  {
+    "brand": "Ziwi Peak",
+    "title": "Neighborhood Pet Store Day",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynTBuBvlKzDIQ%3D%3D",
+    "validity": "09/21/2026 to 09/28/2026"
+  },
+  {
+    "brand": "Ziwi Peak",
+    "title": "Neighborhood Pet Store Day",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynTBuBvlKzDJg%3D%3D",
+    "validity": "09/21/2026 to 09/28/2026"
+  },
+  {
+    "brand": "Ziwi Peak",
+    "title": "Neighborhood Pet Store Day",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynTBuBvlKzCIw%3D%3D",
+    "validity": "09/21/2026 to 09/28/2026"
   }
 ]
