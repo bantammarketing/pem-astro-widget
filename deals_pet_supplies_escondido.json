@@ -61,14 +61,14 @@
   },
   {
     "brand": "BIXBI",
-    "title": "Buy a Medium Bag of Freeze-Dried Dog or Cat Food, Get $10.00 OFF the Second!",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynSA%2BBvlKvHJw%3D%3D",
+    "title": "Buy a Large Bag of Freeze-Dried Dog Food, Get $20.00 OFF the Second!",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynSA%2BBvlKvHJg%3D%3D",
     "validity": "09/01/2026 to 09/30/2026"
   },
   {
     "brand": "BIXBI",
-    "title": "Buy a Large Bag of Freeze-Dried Dog Food, Get $20.00 OFF the Second!",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynSA%2BBvlKvHJg%3D%3D",
+    "title": "Buy a Medium Bag of Freeze-Dried Dog or Cat Food, Get $10.00 OFF the Second!",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynSA%2BBvlKvHJw%3D%3D",
     "validity": "09/01/2026 to 09/30/2026"
   },
   {
@@ -81,6 +81,12 @@
     "brand": "Blue Buffalo",
     "title": "$5.00 OFF Select Dry Dog Food",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrUGfxuka3C",
+    "validity": "09/01/2026 to 09/30/2026"
+  },
+  {
+    "brand": "Blue Buffalo",
+    "title": "$5.00 OFF Select Grizzly Bottles",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrUGfxuka7H",
     "validity": "09/01/2026 to 09/30/2026"
   },
   {
@@ -100,12 +106,6 @@
     "title": "$2.00 OFF 5lb LPF Adult Dog Recipes",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrUGfxukKzF",
     "validity": "09/01/2026 to 11/29/2026"
-  },
-  {
-    "brand": "Blue Buffalo",
-    "title": "$5.00 OFF Select Grizzly Bottles",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrUGfxuka7H",
-    "validity": "09/01/2026 to 09/30/2026"
   },
   {
     "brand": "Bocce's Bakery (Antelope Pet)",
@@ -355,14 +355,14 @@
   },
   {
     "brand": "K9 Natural and Feline Natural (Natural Pet Food Group)",
-    "title": "$20.00 OFF 16lb Bags of Baked & Coated",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynVAOBvlK3JIA%3D%3D",
+    "title": "Buy 3, Get 1 FREE on Cans & Pouches",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynVAOBvlK3JJw%3D%3D",
     "validity": "09/01/2026 to 09/30/2026"
   },
   {
     "brand": "K9 Natural and Feline Natural (Natural Pet Food Group)",
-    "title": "Buy 3, Get 1 FREE on Cans & Pouches",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynVAOBvlK3JJw%3D%3D",
+    "title": "$20.00 OFF 16lb Bags of Baked & Coated",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynVAOBvlK3JIA%3D%3D",
     "validity": "09/01/2026 to 09/30/2026"
   },
   {
@@ -397,12 +397,6 @@
   },
   {
     "brand": "Natural Balance",
-    "title": "$5.00 OFF Small Bags of Dry Food",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvVGfxuk6nG",
-    "validity": "09/01/2026 to 09/30/2026"
-  },
-  {
-    "brand": "Natural Balance",
     "title": "Neighborhood Pet Store Day",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvVGfxuk6nH",
     "validity": "09/25/2026 to 09/27/2026"
@@ -411,6 +405,12 @@
     "brand": "Natural Balance",
     "title": "$1.00 OFF Select Dog Cans & Pouches",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvVGfxuk6nI",
+    "validity": "09/01/2026 to 09/30/2026"
+  },
+  {
+    "brand": "Natural Balance",
+    "title": "$5.00 OFF Small Bags of Dry Food",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvVGfxuk6nG",
     "validity": "09/01/2026 to 09/30/2026"
   },
   {
