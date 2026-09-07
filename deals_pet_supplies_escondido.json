@@ -49,12 +49,6 @@
   },
   {
     "brand": "BIXBI",
-    "title": "Buy a Medium Bag of Freeze-Dried Dog or Cat Food, Get $10.00 OFF the Second!",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynSA%2BBvlKvHJw%3D%3D",
-    "validity": "09/01/2026 to 09/30/2026"
-  },
-  {
-    "brand": "BIXBI",
     "title": "Buy a Large Bag of Freeze-Dried Dog Food, Get $20.00 OFF the Second!",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynSA%2BBvlKvHJg%3D%3D",
     "validity": "09/01/2026 to 09/30/2026"
@@ -69,6 +63,12 @@
     "brand": "BIXBI",
     "title": "Buy a Small Bag of Freeze-Dried Dog or Cat Food, Get $5.00 OFF the Second!",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynSA%2BBvlKvHJA%3D%3D",
+    "validity": "09/01/2026 to 09/30/2026"
+  },
+  {
+    "brand": "BIXBI",
+    "title": "Buy a Medium Bag of Freeze-Dried Dog or Cat Food, Get $10.00 OFF the Second!",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynSA%2BBvlKvHJw%3D%3D",
     "validity": "09/01/2026 to 09/30/2026"
   },
   {
@@ -451,12 +451,6 @@
   },
   {
     "brand": "Nutri Source & Pure Vita",
-    "title": "Buy 1, Get 1 FREE on Select Cat Cans",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvXGfxuk67G",
-    "validity": "09/01/2026 to 09/30/2026"
-  },
-  {
-    "brand": "Nutri Source & Pure Vita",
     "title": "$10.00 OFF Qualifying Large Breed Dog Food Purchase",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvXGfxuk67J",
     "validity": "09/01/2026 to 10/31/2026"
@@ -471,6 +465,12 @@
     "brand": "Nutri Source & Pure Vita",
     "title": "FREE Nutty Butter Treat with Qualifying Dog Kibble Purchase!",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvXGfxuk6%2FA",
+    "validity": "09/01/2026 to 09/30/2026"
+  },
+  {
+    "brand": "Nutri Source & Pure Vita",
+    "title": "Buy 1, Get 1 FREE on Select Cat Cans",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvXGfxuk67G",
     "validity": "09/01/2026 to 09/30/2026"
   },
   {
@@ -511,15 +511,15 @@
   },
   {
     "brand": "Pet House | One Fur All Pets",
-    "title": "FREE Mini Candle with Purchase of 9oz Candle!",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzQA%2BBvlKvGIQ%3D%3D",
-    "validity": "09/04/2026 to 09/07/2026"
-  },
-  {
-    "brand": "Pet House | One Fur All Pets",
     "title": "FREE Mini Candle with Purchase of 9oz Candle",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzQA%2BBvlKvGJg%3D%3D",
     "validity": "09/25/2026 to 09/27/2026"
+  },
+  {
+    "brand": "Pet House | One Fur All Pets",
+    "title": "FREE Mini Candle with Purchase of 9oz Candle!",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzQA%2BBvlKvGIQ%3D%3D",
+    "validity": "09/04/2026 to 09/07/2026"
   },
   {
     "brand": "Plato Pet Treats",
