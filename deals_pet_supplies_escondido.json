@@ -85,12 +85,6 @@
   },
   {
     "brand": "Blue Buffalo",
-    "title": "$5.00 OFF Select Grizzly Bottles",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrUGfxuka7H",
-    "validity": "09/01/2026 to 09/30/2026"
-  },
-  {
-    "brand": "Blue Buffalo",
     "title": "$4.00 OFF Select LPF Puppy Recipes",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrUGfxukKzE",
     "validity": "09/01/2026 to 11/29/2026"
@@ -276,6 +270,12 @@
     "validity": "09/01/2026 to 09/30/2026"
   },
   {
+    "brand": "Grizzly Pet Products",
+    "title": "$5.00 OFF Select Grizzly Bottles",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrUGfxuka7H",
+    "validity": "09/01/2026 to 09/30/2026"
+  },
+  {
     "brand": "Health Extension",
     "title": "$3.00 OFF Freeze Dried Meal Mixers",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynTAuBvlKzFJA%3D%3D",
@@ -457,14 +457,14 @@
   },
   {
     "brand": "Nutri Source & Pure Vita",
-    "title": "Buy 1, Get 1 FREE on Select Dog Cans",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvXGfxuk67I",
+    "title": "Buy 1, Get 1 FREE on Select Cat Cans",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvXGfxuk67G",
     "validity": "09/01/2026 to 09/30/2026"
   },
   {
     "brand": "Nutri Source & Pure Vita",
-    "title": "Buy 1, Get 1 FREE on Select Cat Cans",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvXGfxuk67G",
+    "title": "Buy 1, Get 1 FREE on Select Dog Cans",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvXGfxuk67I",
     "validity": "09/01/2026 to 09/30/2026"
   },
   {
