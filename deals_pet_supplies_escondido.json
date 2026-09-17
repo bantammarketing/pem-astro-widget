@@ -85,15 +85,15 @@
   },
   {
     "brand": "Blue Buffalo",
-    "title": "$4.00 OFF Select LPF Puppy Recipes",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrUGfxukKzE",
-    "validity": "09/01/2026 to 11/29/2026"
-  },
-  {
-    "brand": "Blue Buffalo",
     "title": "$2.00 OFF Dog Treats",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrUGfxuka3D",
     "validity": "09/01/2026 to 09/30/2026"
+  },
+  {
+    "brand": "Blue Buffalo",
+    "title": "$4.00 OFF Select LPF Puppy Recipes",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrUGfxukKzE",
+    "validity": "09/01/2026 to 11/29/2026"
   },
   {
     "brand": "Blue Buffalo",
@@ -361,6 +361,12 @@
   },
   {
     "brand": "K9 Natural and Feline Natural (Natural Pet Food Group)",
+    "title": "Buy 3, Get 1 FREE on Cans & Pouches",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynVAOBvlK3JJw%3D%3D",
+    "validity": "09/01/2026 to 09/30/2026"
+  },
+  {
+    "brand": "K9 Natural and Feline Natural (Natural Pet Food Group)",
     "title": "$20.00 OFF 16lb Bags of Baked & Coated",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynVAOBvlK3JIA%3D%3D",
     "validity": "09/01/2026 to 09/30/2026"
@@ -376,12 +382,6 @@
     "title": "Neighborhood Pet Store Day",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynVAOBvlK3JJA%3D%3D",
     "validity": "09/25/2026 to 09/27/2026"
-  },
-  {
-    "brand": "K9 Natural and Feline Natural (Natural Pet Food Group)",
-    "title": "Buy 3, Get 1 FREE on Cans & Pouches",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynVAOBvlK3JJw%3D%3D",
-    "validity": "09/01/2026 to 09/30/2026"
   },
   {
     "brand": "KONG",
@@ -451,18 +451,6 @@
   },
   {
     "brand": "Nutri Source & Pure Vita",
-    "title": "Buy 1, Get 1 FREE on Select Cat Cans",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvXGfxuk67G",
-    "validity": "09/01/2026 to 09/30/2026"
-  },
-  {
-    "brand": "Nutri Source & Pure Vita",
-    "title": "Buy 1, Get 1 FREE on Select Dog Cans",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvXGfxuk67I",
-    "validity": "09/01/2026 to 09/30/2026"
-  },
-  {
-    "brand": "Nutri Source & Pure Vita",
     "title": "$10.00 OFF Qualifying Large Breed Dog Food Purchase",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvXGfxuk67J",
     "validity": "09/01/2026 to 10/31/2026"
@@ -471,6 +459,18 @@
     "brand": "Nutri Source & Pure Vita",
     "title": "FREE Nutty Butter Treat with Qualifying Dog Kibble Purchase!",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvXGfxuk6%2FA",
+    "validity": "09/01/2026 to 09/30/2026"
+  },
+  {
+    "brand": "Nutri Source & Pure Vita",
+    "title": "Buy 1, Get 1 FREE on Select Cat Cans",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvXGfxuk67G",
+    "validity": "09/01/2026 to 09/30/2026"
+  },
+  {
+    "brand": "Nutri Source & Pure Vita",
+    "title": "Buy 1, Get 1 FREE on Select Dog Cans",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvXGfxuk67I",
     "validity": "09/01/2026 to 09/30/2026"
   },
   {
