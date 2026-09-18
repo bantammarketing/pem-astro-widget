@@ -13,6 +13,12 @@
   },
   {
     "brand": "Bare Naked Pet Co",
+    "title": "Buy 2, Get $10.00 OFF on 6oz Toppers",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy7WA%2BBvk6jDIA%3D%3D",
+    "validity": "10/30/2026 to 11/01/2026"
+  },
+  {
+    "brand": "Bare Naked Pet Co",
     "title": "Buy 2, Get $20.00 OFF on 12oz Toppers",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy7WA%2BBvlK7DKg%3D%3D",
     "validity": "09/26/2026 to 09/26/2026"
@@ -193,14 +199,14 @@
   },
   {
     "brand": "Fromm Pet Food",
-    "title": "Buy 5, Get 1 FREE on All 3oz Cat Food Cans",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxula7A",
+    "title": "Buy 5, Get 1 FREE on All Dog Food Cans",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxula7B",
     "validity": "08/01/2026 to 10/31/2026"
   },
   {
     "brand": "Fromm Pet Food",
-    "title": "Buy 5, Get 1 FREE on All Dog Food Cans",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxula7B",
+    "title": "Buy 5, Get 1 FREE on All 3oz Cat Food Cans",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxula7A",
     "validity": "08/01/2026 to 10/31/2026"
   },
   {
@@ -276,10 +282,22 @@
     "validity": "09/01/2026 to 09/30/2026"
   },
   {
+    "brand": "LIX",
+    "title": "Black Friday",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyveBuBvk6nJKw%3D%3D",
+    "validity": "11/27/2026 to 11/30/2026"
+  },
+  {
     "brand": "New Zealand Natural Pet Food Company",
     "title": "FREE Beef Green Tripe with Qualifying Purchase",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyveBOBvlKzIJQ%3D%3D",
     "validity": "09/01/2026 to 09/30/2026"
+  },
+  {
+    "brand": "New Zealand Natural Pet Food Company",
+    "title": "FREE Woof Tripe Treat with Woof Topper Purchase",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyveBOBvlKHGKg%3D%3D",
+    "validity": "10/01/2026 to 10/31/2026"
   },
   {
     "brand": "Nulo",
@@ -408,6 +426,24 @@
     "validity": "09/25/2026 to 09/27/2026"
   },
   {
+    "brand": "Primal Pet Foods",
+    "title": "Black Friday",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3XGfxplq3B",
+    "validity": "11/27/2026 to 11/30/2026"
+  },
+  {
+    "brand": "Primal Pet Foods",
+    "title": "Black Friday",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3XGfxplq3C",
+    "validity": "11/27/2026 to 11/30/2026"
+  },
+  {
+    "brand": "Raw Dog",
+    "title": "Buy 1, Get 1 FREE on Select Chews!",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzSA%2BBvlKHAJg%3D%3D",
+    "validity": "10/31/2026 to 10/31/2026"
+  },
+  {
     "brand": "Raw Dog",
     "title": "Neighborhood Pet Store Day",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzSA%2BBvlKzIJA%3D%3D",
@@ -481,15 +517,15 @@
   },
   {
     "brand": "The Honest Kitchen",
-    "title": "$7.00 OFF 2lb - 4lb Wholemade",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy7SGfxukKvG",
-    "validity": "09/01/2026 to 09/30/2026"
-  },
-  {
-    "brand": "The Honest Kitchen",
     "title": "FREE Protein Plus Topper with Qualifying Purchase",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy7SGfxunq7G",
     "validity": "10/01/2026 to 10/31/2026"
+  },
+  {
+    "brand": "The Honest Kitchen",
+    "title": "$7.00 OFF 2lb - 4lb Wholemade",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy7SGfxukKvG",
+    "validity": "09/01/2026 to 09/30/2026"
   },
   {
     "brand": "The Lazy Dog Cookie Co Inc.",

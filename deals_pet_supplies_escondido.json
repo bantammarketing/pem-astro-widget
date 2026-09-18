@@ -253,14 +253,14 @@
   },
   {
     "brand": "Fromm Pet Food",
-    "title": "Buy 5, Get 1 FREE on All 3oz Cat Food Cans",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxula7A",
+    "title": "Buy 5, Get 1 FREE on All Dog Food Cans",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxula7B",
     "validity": "08/01/2026 to 10/31/2026"
   },
   {
     "brand": "Fromm Pet Food",
-    "title": "Buy 5, Get 1 FREE on All Dog Food Cans",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxula7B",
+    "title": "Buy 5, Get 1 FREE on All 3oz Cat Food Cans",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxula7A",
     "validity": "08/01/2026 to 10/31/2026"
   },
   {
@@ -361,12 +361,6 @@
   },
   {
     "brand": "K9 Natural and Feline Natural (Natural Pet Food Group)",
-    "title": "Buy 3, Get 1 FREE on Cans & Pouches",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynVAOBvlK3JJw%3D%3D",
-    "validity": "09/01/2026 to 09/30/2026"
-  },
-  {
-    "brand": "K9 Natural and Feline Natural (Natural Pet Food Group)",
     "title": "$20.00 OFF 16lb Bags of Baked & Coated",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynVAOBvlK3JIA%3D%3D",
     "validity": "09/01/2026 to 09/30/2026"
@@ -382,6 +376,12 @@
     "title": "Neighborhood Pet Store Day",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynVAOBvlK3JJA%3D%3D",
     "validity": "09/25/2026 to 09/27/2026"
+  },
+  {
+    "brand": "K9 Natural and Feline Natural (Natural Pet Food Group)",
+    "title": "Buy 3, Get 1 FREE on Cans & Pouches",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynVAOBvlK3JJw%3D%3D",
+    "validity": "09/01/2026 to 09/30/2026"
   },
   {
     "brand": "KONG",
