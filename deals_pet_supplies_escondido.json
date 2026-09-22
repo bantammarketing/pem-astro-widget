@@ -72,6 +72,12 @@
     "validity": "09/01/2026 to 09/30/2026"
   },
   {
+    "brand": "BIXBI",
+    "title": "Neighborhood Pet Store Day",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynSA%2BBvlK7CIA%3D%3D",
+    "validity": "09/25/2026 to 09/27/2026"
+  },
+  {
     "brand": "Blue Buffalo",
     "title": "Buy 1, Get 1 FREE on 12.5oz Cans!",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrUGfxuka3B",
@@ -265,14 +271,32 @@
   },
   {
     "brand": "Fussie Cat",
+    "title": "Buy 2, Get 1 FREE on Select 4-Packs of Puree",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzWGfxukKrH",
+    "validity": "09/01/2026 to 09/24/2026"
+  },
+  {
+    "brand": "Fussie Cat",
     "title": "$3.00 OFF 3.5lb Bags",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzWGfxukKvB",
     "validity": "09/01/2026 to 09/30/2026"
   },
   {
+    "brand": "Fussie Cat",
+    "title": "Neighborhood Pet Store Day",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzWGfxukazH",
+    "validity": "09/25/2026 to 09/27/2026"
+  },
+  {
     "brand": "Grizzly Pet Products",
     "title": "$5.00 OFF Select Grizzly Bottles",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrUGfxuka7H",
+    "validity": "09/01/2026 to 09/30/2026"
+  },
+  {
+    "brand": "Health Extension",
+    "title": "2 FREE Gently Cooked Pouches with Large Kibble Purchase",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynTAuBvlKzFJQ%3D%3D",
     "validity": "09/01/2026 to 09/30/2026"
   },
   {
@@ -361,6 +385,12 @@
   },
   {
     "brand": "K9 Natural and Feline Natural (Natural Pet Food Group)",
+    "title": "Buy 3, Get 1 FREE on Cans & Pouches",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynVAOBvlK3JJw%3D%3D",
+    "validity": "09/01/2026 to 09/30/2026"
+  },
+  {
+    "brand": "K9 Natural and Feline Natural (Natural Pet Food Group)",
     "title": "$20.00 OFF 16lb Bags of Baked & Coated",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynVAOBvlK3JIA%3D%3D",
     "validity": "09/01/2026 to 09/30/2026"
@@ -376,12 +406,6 @@
     "title": "Neighborhood Pet Store Day",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynVAOBvlK3JJA%3D%3D",
     "validity": "09/25/2026 to 09/27/2026"
-  },
-  {
-    "brand": "K9 Natural and Feline Natural (Natural Pet Food Group)",
-    "title": "Buy 3, Get 1 FREE on Cans & Pouches",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynVAOBvlK3JJw%3D%3D",
-    "validity": "09/01/2026 to 09/30/2026"
   },
   {
     "brand": "KONG",
@@ -492,6 +516,12 @@
     "validity": "09/25/2026 to 09/27/2026"
   },
   {
+    "brand": "Old Mother Hubbard Baking Co. (WellPet)",
+    "title": "$1.00 OFF 10oz P'Nutty B-Day Party",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynXBeBvlK3CIg%3D%3D",
+    "validity": "09/01/2026 to 09/30/2026"
+  },
+  {
     "brand": "Open Farm",
     "title": "$4.00 OFF Select 4lb Dog Dry Food Recipes",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDRGfxukazF",
@@ -516,6 +546,12 @@
     "validity": "09/25/2026 to 09/27/2026"
   },
   {
+    "brand": "Pet Naturals (Food Science)",
+    "title": "$1.00 OFF BusyButter Products",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvTBOBvlK3FKg%3D%3D",
+    "validity": "09/01/2026 to 09/30/2026"
+  },
+  {
     "brand": "Plato Pet Treats",
     "title": "Neighborhood Pet Store Day",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynVB%2BBvlK%2FFJQ%3D%3D",
@@ -528,6 +564,18 @@
     "validity": "08/01/2026 to 12/31/2026"
   },
   {
+    "brand": "Plato Pet Treats",
+    "title": "FREE Meat Stick with Purchase of any Single-Ingredient Fish Treat",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynVB%2BBvlKrHJw%3D%3D",
+    "validity": "09/01/2026 to 09/24/2026"
+  },
+  {
+    "brand": "Plato Pet Treats",
+    "title": "Dollars OFF NEW Wellness Chews",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynVB%2BBvlK7JIA%3D%3D",
+    "validity": "09/01/2026 to 09/24/2026"
+  },
+  {
     "brand": "Primal Pet Foods",
     "title": "Neighborhood Pet Store Day",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3XGfxuk6DJ",
@@ -537,6 +585,18 @@
     "brand": "Primal Pet Foods",
     "title": "Neighborhood Pet Store Day",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3XGfxuk6%2FF",
+    "validity": "09/25/2026 to 09/27/2026"
+  },
+  {
+    "brand": "Raised Right Pets",
+    "title": "$3.00 OFF 6lb Bulk Box Frozen Diets",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrTBOBvlKvDJw%3D%3D",
+    "validity": "09/01/2026 to 09/24/2026"
+  },
+  {
+    "brand": "Raised Right Pets",
+    "title": "$6.00 OFF 6lb Frozen Bulk Boxes",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrTBOBvlKDJIA%3D%3D",
     "validity": "09/25/2026 to 09/27/2026"
   },
   {
@@ -562,6 +622,12 @@
     "title": "Buy 3, Get 1 FREE on 96% Goat's Milk Dog Cans",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynfA%2BBvlK%2FCJw%3D%3D",
     "validity": "09/01/2026 to 09/25/2026"
+  },
+  {
+    "brand": "RAWZ Natural Pet Food",
+    "title": "Buy 3, Get 1 FREE on 96% Goat's Milk Cat Cans",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynfA%2BBvlK%2FCIw%3D%3D",
+    "validity": "09/01/2026 to 09/30/2026"
   },
   {
     "brand": "Redbarn INC",
@@ -681,6 +747,12 @@
     "brand": "Vital Essentials",
     "title": "Neighborhood Pet Store Day",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynUDuBvlK3IJw%3D%3D",
+    "validity": "09/25/2026 to 09/27/2026"
+  },
+  {
+    "brand": "Wellness Pet Food and Whimzees (Well Pet)",
+    "title": "Neighborhood Pet Store Day",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynXBeBvlK3AJg%3D%3D",
     "validity": "09/25/2026 to 09/27/2026"
   },
   {
