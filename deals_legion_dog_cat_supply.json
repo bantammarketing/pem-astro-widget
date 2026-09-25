@@ -43,18 +43,6 @@
   },
   {
     "brand": "Bocce's Bakery (Antelope Pet)",
-    "title": "$1.50 OFF Basic Soft & Chewy Treats",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvWB%2BBvlKzAIw%3D%3D",
-    "validity": "09/01/2026 to 09/24/2026"
-  },
-  {
-    "brand": "Bocce's Bakery (Antelope Pet)",
-    "title": "$1.00 OFF Everyday Training Bites",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvWB%2BBvlKvJKw%3D%3D",
-    "validity": "09/01/2026 to 09/24/2026"
-  },
-  {
-    "brand": "Bocce's Bakery (Antelope Pet)",
     "title": "Neighborhood Pet Store Day",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvWB%2BBvlKvJKg%3D%3D",
     "validity": "09/25/2026 to 09/27/2026"
@@ -102,12 +90,6 @@
     "validity": "10/01/2026 to 10/31/2026"
   },
   {
-    "brand": "Earthbath",
-    "title": "$2.00 OFF Ear Wipes & Eye Wipes",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy7WBuBvlKvHJQ%3D%3D",
-    "validity": "09/01/2026 to 09/24/2026"
-  },
-  {
     "brand": "Earthborn Holistic",
     "title": "Neighborhood Pet Store Day",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvWGfxuk6jJ",
@@ -127,8 +109,32 @@
   },
   {
     "brand": "Fromm Pet Food",
+    "title": "Buy 5, Get 1 FREE on All 3oz Cat Food Cans",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxula7A",
+    "validity": "08/01/2026 to 10/31/2026"
+  },
+  {
+    "brand": "Fromm Pet Food",
+    "title": "Buy 5, Get 1 FREE on All Dog Food Cans",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxula7B",
+    "validity": "08/01/2026 to 10/31/2026"
+  },
+  {
+    "brand": "Fromm Pet Food",
     "title": "Buy 1, Get 1 FREE on 4lb Nutritionals Dry Dog Food!",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxukqvB",
+    "validity": "09/01/2026 to 12/31/2026"
+  },
+  {
+    "brand": "Fromm Pet Food",
+    "title": "Neighborhood Pet Store Day",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxukqvI",
+    "validity": "09/26/2026 to 09/26/2026"
+  },
+  {
+    "brand": "Fromm Pet Food",
+    "title": "Buy 1, Get 1 FREE on PurrSnackitty Cat Treats",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxukajI",
     "validity": "09/01/2026 to 12/31/2026"
   },
   {
@@ -175,18 +181,6 @@
   },
   {
     "brand": "Fromm Pet Food",
-    "title": "Neighborhood Pet Store Day",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxukqvI",
-    "validity": "09/26/2026 to 09/26/2026"
-  },
-  {
-    "brand": "Fromm Pet Food",
-    "title": "Buy 1, Get 1 FREE on PurrSnackitty Cat Treats",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxukajI",
-    "validity": "09/01/2026 to 12/31/2026"
-  },
-  {
-    "brand": "Fromm Pet Food",
     "title": "FREE Lamb Pate with Qualifying Four-Star Dry Purchase",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxunqHI",
     "validity": "10/01/2026 to 12/31/2026"
@@ -196,18 +190,6 @@
     "title": "FREE 4lb Zealamber Dog Food with Qualifying Purchase",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxunqHF",
     "validity": "10/01/2026 to 12/31/2026"
-  },
-  {
-    "brand": "Fromm Pet Food",
-    "title": "Buy 5, Get 1 FREE on All Dog Food Cans",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxula7B",
-    "validity": "08/01/2026 to 10/31/2026"
-  },
-  {
-    "brand": "Fromm Pet Food",
-    "title": "Buy 5, Get 1 FREE on All 3oz Cat Food Cans",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxula7A",
-    "validity": "08/01/2026 to 10/31/2026"
   },
   {
     "brand": "Fussie Cat",
@@ -343,14 +325,14 @@
   },
   {
     "brand": "Nutri Source & Pure Vita",
-    "title": "Buy 1, Get 1 FREE on Select Dog Cans",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvXGfxuk67I",
+    "title": "Buy 1, Get 1 FREE on Select Cat Cans",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvXGfxuk67G",
     "validity": "09/01/2026 to 09/30/2026"
   },
   {
     "brand": "Nutri Source & Pure Vita",
-    "title": "Buy 1, Get 1 FREE on Select Cat Cans",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvXGfxuk67G",
+    "title": "Buy 1, Get 1 FREE on Select Dog Cans",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvXGfxuk67I",
     "validity": "09/01/2026 to 09/30/2026"
   },
   {
