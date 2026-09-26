@@ -176,14 +176,20 @@
   {
     "brand": "Farmina",
     "title": "Neighborhood Pet Store Day",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDQGfxukanF",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDQGfxukanG",
     "validity": "09/25/2026 to 09/27/2026"
   },
   {
     "brand": "Farmina",
     "title": "Neighborhood Pet Store Day",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDQGfxukanG",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDQGfxukanF",
     "validity": "09/25/2026 to 09/27/2026"
+  },
+  {
+    "brand": "Fromm Pet Food",
+    "title": "Buy 5, Get 1 FREE on All Dog Food Cans",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxula7B",
+    "validity": "08/01/2026 to 10/31/2026"
   },
   {
     "brand": "Fromm Pet Food",
@@ -201,12 +207,6 @@
     "brand": "Fromm Pet Food",
     "title": "Buy 5, Get 1 FREE on All 3oz Cat Food Cans",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxula7A",
-    "validity": "08/01/2026 to 10/31/2026"
-  },
-  {
-    "brand": "Fromm Pet Food",
-    "title": "Buy 5, Get 1 FREE on All Dog Food Cans",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxula7B",
     "validity": "08/01/2026 to 10/31/2026"
   },
   {
@@ -247,15 +247,15 @@
   },
   {
     "brand": "Fussie Cat",
-    "title": "$3.00 OFF 3.5lb Bags",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzWGfxukKvB",
-    "validity": "09/01/2026 to 09/30/2026"
-  },
-  {
-    "brand": "Fussie Cat",
     "title": "Neighborhood Pet Store Day",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzWGfxukazH",
     "validity": "09/25/2026 to 09/27/2026"
+  },
+  {
+    "brand": "Fussie Cat",
+    "title": "$3.00 OFF 3.5lb Bags",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzWGfxukKvB",
+    "validity": "09/01/2026 to 09/30/2026"
   },
   {
     "brand": "Grizzly Pet Products",
@@ -487,6 +487,12 @@
   },
   {
     "brand": "Open Farm",
+    "title": "Neighborhood Pet Store Days",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDRGfxukazE",
+    "validity": "09/25/2026 to 09/27/2026"
+  },
+  {
+    "brand": "Open Farm",
     "title": "$4.00 OFF Select 4lb Dog Dry Food Recipes",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDRGfxukazF",
     "validity": "09/01/2026 to 09/30/2026"
@@ -496,12 +502,6 @@
     "title": "Dollars OFF Cat Dry Food Recipes",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDRGfxukavA",
     "validity": "09/01/2026 to 09/30/2026"
-  },
-  {
-    "brand": "Open Farm",
-    "title": "Neighborhood Pet Store Days",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDRGfxukazE",
-    "validity": "09/25/2026 to 09/27/2026"
   },
   {
     "brand": "Pet House | One Fur All Pets",
@@ -562,12 +562,6 @@
     "title": "$3.00 OFF Freeze Dried Cat Treats",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynfA%2BBvlK%2FFKg%3D%3D",
     "validity": "09/26/2026 to 09/27/2026"
-  },
-  {
-    "brand": "RAWZ Natural Pet Food",
-    "title": "Buy 3, Get 1 FREE on 96% Goat's Milk Dog Cans",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynfA%2BBvlK%2FCJw%3D%3D",
-    "validity": "09/01/2026 to 09/25/2026"
   },
   {
     "brand": "RAWZ Natural Pet Food",
@@ -642,12 +636,6 @@
     "validity": "09/28/2026 to 11/26/2026"
   },
   {
-    "brand": "The Bear and The Rat",
-    "title": "$1.00 OFF Frozen Yogurt 4-Packs",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrVDuBvl6%2FIJw%3D%3D",
-    "validity": "12/01/2025 to 09/25/2026"
-  },
-  {
     "brand": "The Honest Kitchen",
     "title": "$7.00 OFF 4lb to 5lb Clusters",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy7SGfxuk6HJ",
@@ -686,13 +674,13 @@
   {
     "brand": "Vital Essentials",
     "title": "Neighborhood Pet Store Day",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynUDuBvlK3IJA%3D%3D",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynUDuBvlK3IJw%3D%3D",
     "validity": "09/25/2026 to 09/27/2026"
   },
   {
     "brand": "Vital Essentials",
     "title": "Neighborhood Pet Store Day",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynUDuBvlK3IJw%3D%3D",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynUDuBvlK3IJA%3D%3D",
     "validity": "09/25/2026 to 09/27/2026"
   },
   {
@@ -740,13 +728,13 @@
   {
     "brand": "Weruva Inc.",
     "title": "Neighborhood Pet Store Day",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy7fGfxuk6HG",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy7fGfxuk6HE",
     "validity": "09/25/2026 to 09/27/2026"
   },
   {
     "brand": "Weruva Inc.",
     "title": "Neighborhood Pet Store Day",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy7fGfxuk6HE",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy7fGfxuk6HG",
     "validity": "09/25/2026 to 09/27/2026"
   },
   {
@@ -776,6 +764,12 @@
   {
     "brand": "Ziwi Peak",
     "title": "Neighborhood Pet Store Day",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynTBuBvlKzDJg%3D%3D",
+    "validity": "09/21/2026 to 09/28/2026"
+  },
+  {
+    "brand": "Ziwi Peak",
+    "title": "Neighborhood Pet Store Day",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynTBuBvlKzDJw%3D%3D",
     "validity": "09/21/2026 to 09/28/2026"
   },
@@ -789,12 +783,6 @@
     "brand": "Ziwi Peak",
     "title": "Neighborhood Pet Store Day",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynTBuBvlKzCIw%3D%3D",
-    "validity": "09/21/2026 to 09/28/2026"
-  },
-  {
-    "brand": "Ziwi Peak",
-    "title": "Neighborhood Pet Store Day",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynTBuBvlKzDJg%3D%3D",
     "validity": "09/21/2026 to 09/28/2026"
   }
 ]
