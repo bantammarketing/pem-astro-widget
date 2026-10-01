@@ -1,12 +1,6 @@
 [
   {
     "brand": "A Pup Above",
-    "title": "Buy 2, Get 1 FREE on 1lb Patties",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvSA%2BBvlK7EIw%3D%3D",
-    "validity": "09/01/2026 to 09/30/2026"
-  },
-  {
-    "brand": "A Pup Above",
     "title": "$10.00 OFF Select 7lb Gently Cooked",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvSA%2BBvlKHJIA%3D%3D",
     "validity": "10/01/2026 to 10/31/2026"
@@ -22,30 +16,6 @@
     "title": "Dollars OFF 11.5oz and 24oz Superfood Complete!",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3fAuBvk6rIIw%3D%3D",
     "validity": "10/01/2026 to 10/31/2026"
-  },
-  {
-    "brand": "Badlands Ranch",
-    "title": "$20.00 OFF 64oz Superfood Complete",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3fAuBvlK%2FCJA%3D%3D",
-    "validity": "09/01/2026 to 09/30/2026"
-  },
-  {
-    "brand": "BIXBI",
-    "title": "Buy a Large Bag of Freeze-Dried Dog Food, Get $20.00 OFF the Second!",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynSA%2BBvlKvHJg%3D%3D",
-    "validity": "09/01/2026 to 09/30/2026"
-  },
-  {
-    "brand": "BIXBI",
-    "title": "Buy a Small Bag of Freeze-Dried Dog or Cat Food, Get $5.00 OFF the Second!",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynSA%2BBvlKvHJA%3D%3D",
-    "validity": "09/01/2026 to 09/30/2026"
-  },
-  {
-    "brand": "BIXBI",
-    "title": "Buy a Medium Bag of Freeze-Dried Dog or Cat Food, Get $10.00 OFF the Second!",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynSA%2BBvlKvHJw%3D%3D",
-    "validity": "09/01/2026 to 09/30/2026"
   },
   {
     "brand": "BIXBI",
@@ -64,12 +34,6 @@
     "title": "Buy 3, Get $1.00 OFF Life Protection Formula Dog Cans",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrUGfxun67B",
     "validity": "10/01/2026 to 10/31/2026"
-  },
-  {
-    "brand": "Blue Buffalo",
-    "title": "$5.00 OFF Select Dry Dog Food",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrUGfxuka3C",
-    "validity": "09/01/2026 to 09/30/2026"
   },
   {
     "brand": "Blue Buffalo",
@@ -103,12 +67,6 @@
   },
   {
     "brand": "Blue Buffalo",
-    "title": "$2.00 OFF Dog Treats",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrUGfxuka3D",
-    "validity": "09/01/2026 to 09/30/2026"
-  },
-  {
-    "brand": "Blue Buffalo",
     "title": "$4.00 OFF Select LPF Puppy Recipes",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrUGfxukKzE",
     "validity": "09/01/2026 to 11/29/2026"
@@ -132,12 +90,6 @@
     "validity": "10/01/2026 to 11/30/2026"
   },
   {
-    "brand": "Canidae",
-    "title": "$5.00 OFF Small Bags of ALS & Pure Farm to Bowl",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvVGfxuk6nE",
-    "validity": "09/01/2026 to 09/30/2026"
-  },
-  {
     "brand": "Carefresh by Healthy Pet",
     "title": "$5.00 OFF Medium and Large Bags of Bedding",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrfAuBvlaDEIg%3D%3D",
@@ -148,12 +100,6 @@
     "title": "$5.00 OFF 16oz FreshPrey with Qualifying Dry Food Purchase",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzfGfxun6%2FG",
     "validity": "10/01/2026 to 10/31/2026"
-  },
-  {
-    "brand": "Champion Pet Foods",
-    "title": "$3.00 OFF FRESHPREY 16oz Single Bags",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzfGfxukarF",
-    "validity": "09/01/2026 to 09/30/2026"
   },
   {
     "brand": "Dr. Marty's",
@@ -205,6 +151,12 @@
   },
   {
     "brand": "Fromm Pet Food",
+    "title": "Buy 1, Get 1 FREE on 4lb Nutritionals Dry Dog Food!",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxukqvB",
+    "validity": "09/01/2026 to 12/31/2026"
+  },
+  {
+    "brand": "Fromm Pet Food",
     "title": "FREE Lamb Pate with Qualifying Four-Star Dry Purchase",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxunqHI",
     "validity": "10/01/2026 to 12/31/2026"
@@ -222,40 +174,10 @@
     "validity": "08/01/2026 to 10/31/2026"
   },
   {
-    "brand": "Fromm Pet Food",
-    "title": "Buy 1, Get 1 FREE on 4lb Nutritionals Dry Dog Food!",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxukqvB",
-    "validity": "09/01/2026 to 12/31/2026"
-  },
-  {
-    "brand": "Fussie Cat",
-    "title": "$3.00 OFF 3.5lb Bags",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzWGfxukKvB",
-    "validity": "09/01/2026 to 09/30/2026"
-  },
-  {
     "brand": "Grandma Lucy's",
     "title": "$5.00 OFF Select 3lb Bags or Larger",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyHWGfxun6vA",
     "validity": "10/01/2026 to 10/31/2026"
-  },
-  {
-    "brand": "Grizzly Pet Products",
-    "title": "$5.00 OFF Select Grizzly Bottles",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrUGfxuka7H",
-    "validity": "09/01/2026 to 09/30/2026"
-  },
-  {
-    "brand": "Health Extension",
-    "title": "2 FREE Gently Cooked Pouches with Large Kibble Purchase",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynTAuBvlKzFJQ%3D%3D",
-    "validity": "09/01/2026 to 09/30/2026"
-  },
-  {
-    "brand": "Health Extension",
-    "title": "$3.00 OFF Freeze Dried Meal Mixers",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynTAuBvlKzFJA%3D%3D",
-    "validity": "09/01/2026 to 09/30/2026"
   },
   {
     "brand": "Health Extension",
@@ -288,30 +210,6 @@
     "validity": "10/01/2026 to 10/31/2026"
   },
   {
-    "brand": "HomeoPet",
-    "title": "$2.00 OFF UTI+ Products",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3UBuBvlKvEIw%3D%3D",
-    "validity": "09/01/2026 to 09/30/2026"
-  },
-  {
-    "brand": "INSTINCT",
-    "title": "$7.00 OFF Small Bags of PeakBoost+ & RawBoost+ Dog Kibble",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzXGfxukaHB",
-    "validity": "09/01/2026 to 09/30/2026"
-  },
-  {
-    "brand": "INSTINCT",
-    "title": "Buy 1, Get 1 FREE on 8oz FreshRaw Meals",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzXGfxukaDI",
-    "validity": "09/01/2026 to 09/30/2026"
-  },
-  {
-    "brand": "INSTINCT",
-    "title": "$5.00 OFF Small Bags of Cat Kibble",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzXGfxukaDG",
-    "validity": "09/01/2026 to 09/30/2026"
-  },
-  {
     "brand": "INSTINCT",
     "title": "$12.00 OFF Large Bags of PeakBoost+ & RawBoost+ for Dogs",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzXGfxunqzI",
@@ -322,24 +220,6 @@
     "title": "Dollars OFF Frozen FreshRaw Bites, Medallions & Patties",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzXGfxunqvI",
     "validity": "10/01/2026 to 10/31/2026"
-  },
-  {
-    "brand": "INSTINCT",
-    "title": "Dollars OFF FreshDried Raw Meals & Meal Blends for Dogs",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzXGfxukaDA",
-    "validity": "09/01/2026 to 09/30/2026"
-  },
-  {
-    "brand": "INSTINCT",
-    "title": "$7.00 OFF 23oz - 25oz Raw Boost Mixers for Dogs",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzXGfxukaDJ",
-    "validity": "09/01/2026 to 09/30/2026"
-  },
-  {
-    "brand": "K9 Natural and Feline Natural (Natural Pet Food Group)",
-    "title": "Buy 3, Get 1 FREE on Cans & Pouches",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynVAOBvlK3JJw%3D%3D",
-    "validity": "09/01/2026 to 09/30/2026"
   },
   {
     "brand": "K9 Natural and Feline Natural (Natural Pet Food Group)",
@@ -360,28 +240,10 @@
     "validity": "10/01/2026 to 10/31/2026"
   },
   {
-    "brand": "K9 Natural and Feline Natural (Natural Pet Food Group)",
-    "title": "$20.00 OFF 16lb Bags of Baked & Coated",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynVAOBvlK3JIA%3D%3D",
-    "validity": "09/01/2026 to 09/30/2026"
-  },
-  {
-    "brand": "K9 Natural and Feline Natural (Natural Pet Food Group)",
-    "title": "$8.00 OFF 3.5oz-5oz Freeze-Dried Bags",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynVAOBvlK3JJg%3D%3D",
-    "validity": "09/01/2026 to 09/30/2026"
-  },
-  {
     "brand": "KONG",
     "title": "$3.00 OFF KONG Jerky",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy7WAOBvlK%2FEKw%3D%3D",
     "validity": "10/01/2026 to 10/31/2026"
-  },
-  {
-    "brand": "KONG",
-    "title": "$3.00 OFF KONG Corkz",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy7WAOBvlKvEIg%3D%3D",
-    "validity": "09/01/2026 to 09/30/2026"
   },
   {
     "brand": "Lord Jameson",
@@ -396,18 +258,6 @@
     "validity": "10/01/2026 to 10/31/2026"
   },
   {
-    "brand": "My Perfect Pet (Antelope Pets)",
-    "title": "$3.00 OFF Select 4lb Glycemic Friendly Recipes",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvWB%2BBvlKzAIA%3D%3D",
-    "validity": "09/01/2026 to 09/30/2026"
-  },
-  {
-    "brand": "Natural Balance",
-    "title": "$5.00 OFF Small Bags of Dry Food",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvVGfxuk6nG",
-    "validity": "09/01/2026 to 09/30/2026"
-  },
-  {
     "brand": "Natural Balance",
     "title": "$6.00 OFF Large Bags of Limited Ingredient Dry Dog Food",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvVGfxukKDD",
@@ -420,34 +270,10 @@
     "validity": "10/01/2026 to 11/30/2026"
   },
   {
-    "brand": "Natural Balance",
-    "title": "$1.00 OFF Select Dog Cans & Pouches",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvVGfxuk6nI",
-    "validity": "09/01/2026 to 09/30/2026"
-  },
-  {
-    "brand": "Natural Dog Company",
-    "title": "$2.00 OFF Select Supplements",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvTBOBvlK3EJg%3D%3D",
-    "validity": "09/01/2026 to 09/30/2026"
-  },
-  {
     "brand": "Natural Dog Company",
     "title": "$2.00 OFF Select Products",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvTBOBvlKDEJQ%3D%3D",
     "validity": "10/01/2026 to 10/31/2026"
-  },
-  {
-    "brand": "Nulo",
-    "title": "Dollars OFF Dry Dog Food!",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3WGfxukq7A",
-    "validity": "09/01/2026 to 09/30/2026"
-  },
-  {
-    "brand": "Nulo",
-    "title": "Dollars OFF Dry Cat Food",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3WGfxukqrF",
-    "validity": "09/01/2026 to 09/30/2026"
   },
   {
     "brand": "Nulo",
@@ -460,18 +286,6 @@
     "title": "Dollars OFF Dry Dog Food!",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3WGfxukKDJ",
     "validity": "10/01/2026 to 10/31/2026"
-  },
-  {
-    "brand": "Nutri Source & Pure Vita",
-    "title": "Buy 1, Get 1 FREE on Select Cat Cans",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvXGfxuk67G",
-    "validity": "09/01/2026 to 09/30/2026"
-  },
-  {
-    "brand": "Nutri Source & Pure Vita",
-    "title": "Buy 1, Get 1 FREE on Select Dog Cans",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvXGfxuk67I",
-    "validity": "09/01/2026 to 09/30/2026"
   },
   {
     "brand": "Nutri Source & Pure Vita",
@@ -498,40 +312,10 @@
     "validity": "09/01/2026 to 10/31/2026"
   },
   {
-    "brand": "Nutri Source & Pure Vita",
-    "title": "FREE Nutty Butter Treat with Qualifying Dog Kibble Purchase!",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvXGfxuk6%2FA",
-    "validity": "09/01/2026 to 09/30/2026"
-  },
-  {
-    "brand": "Nylabone",
-    "title": "Dollars OFF Strong Chews 'Made with REAL Proteins!'",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrXGfxulKjD",
-    "validity": "08/15/2026 to 09/30/2026"
-  },
-  {
     "brand": "Okocat by Healthy Pet",
     "title": "$4.00 OFF Okocat Litter",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrfAuBvlaDGJw%3D%3D",
     "validity": "07/01/2026 to 10/31/2026"
-  },
-  {
-    "brand": "Old Mother Hubbard Baking Co. (WellPet)",
-    "title": "$1.00 OFF 10oz P'Nutty B-Day Party",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynXBeBvlK3CIg%3D%3D",
-    "validity": "09/01/2026 to 09/30/2026"
-  },
-  {
-    "brand": "Open Farm",
-    "title": "$4.00 OFF Select 4lb Dog Dry Food Recipes",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDRGfxukazF",
-    "validity": "09/01/2026 to 09/30/2026"
-  },
-  {
-    "brand": "Open Farm",
-    "title": "Dollars OFF Cat Dry Food Recipes",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDRGfxukavA",
-    "validity": "09/01/2026 to 09/30/2026"
   },
   {
     "brand": "Open Farm",
@@ -558,18 +342,6 @@
     "validity": "09/01/2026 to 10/31/2026"
   },
   {
-    "brand": "Pet Naturals (Food Science)",
-    "title": "$1.00 OFF BusyButter Products",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvTBOBvlK3FKg%3D%3D",
-    "validity": "09/01/2026 to 09/30/2026"
-  },
-  {
-    "brand": "Plato Pet Treats",
-    "title": "$3.00 OFF Select Treats",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynVB%2BBvk6nFKg%3D%3D",
-    "validity": "10/01/2026 to 10/31/2026"
-  },
-  {
     "brand": "Plato Pet Treats",
     "title": "$5.00 OFF Select Turkey & Duck Treats",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynVB%2BBvk6nBIg%3D%3D",
@@ -577,9 +349,9 @@
   },
   {
     "brand": "Plato Pet Treats",
-    "title": "Neighborhood Pet Store Day",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynVB%2BBvlK%2FFJQ%3D%3D",
-    "validity": "09/25/2026 to 09/30/2026"
+    "title": "$3.00 OFF Select Treats",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynVB%2BBvk6nFKg%3D%3D",
+    "validity": "10/01/2026 to 10/31/2026"
   },
   {
     "brand": "Plato Pet Treats",
@@ -612,34 +384,10 @@
     "validity": "10/01/2026 to 10/31/2026"
   },
   {
-    "brand": "RAWZ Natural Pet Food",
-    "title": "Buy 3, Get 1 FREE on 96% Goat's Milk Cat Cans",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynfA%2BBvlK%2FCIw%3D%3D",
-    "validity": "09/01/2026 to 09/30/2026"
-  },
-  {
-    "brand": "Skout's Honor",
-    "title": "$2.00 OFF Flea+Tick and Training Aids",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrQA%2BBvlK%2FBKg%3D%3D",
-    "validity": "09/01/2026 to 09/30/2026"
-  },
-  {
     "brand": "Skout's Honor",
     "title": "$2.00 OFF Stain & Odor Products and Wipes",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrQA%2BBvlKHGKw%3D%3D",
     "validity": "10/01/2026 to 10/31/2026"
-  },
-  {
-    "brand": "Stella and Chewy's",
-    "title": "$8.00 OFF 25oz Freeze Dried Dinner Patties",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyHSGfxunq7H",
-    "validity": "09/01/2026 to 09/30/2026"
-  },
-  {
-    "brand": "Stella and Chewy's",
-    "title": "Dollars OFF Cat Freeze-Dried Dinner Morsels!",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyHSGfxuk6HA",
-    "validity": "09/01/2026 to 09/30/2026"
   },
   {
     "brand": "Stella and Chewy's",
@@ -673,18 +421,6 @@
   },
   {
     "brand": "The Honest Kitchen",
-    "title": "$7.00 OFF 4lb to 5lb Clusters",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy7SGfxuk6HJ",
-    "validity": "09/01/2026 to 09/30/2026"
-  },
-  {
-    "brand": "The Honest Kitchen",
-    "title": "$7.00 OFF 2lb - 4lb Wholemade",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy7SGfxukKvG",
-    "validity": "09/01/2026 to 09/30/2026"
-  },
-  {
-    "brand": "The Honest Kitchen",
     "title": "FREE Protein Plus Topper with Qualifying Purchase",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy7SGfxunq7G",
     "validity": "10/01/2026 to 10/31/2026"
@@ -706,12 +442,6 @@
     "title": "$3.00 OFF Select Feline Products!",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvUD%2BBvlKDDKg%3D%3D",
     "validity": "10/01/2026 to 12/31/2026"
-  },
-  {
-    "brand": "Vetericyn by Innovacyn, Inc.",
-    "title": "$3.00 OFF Select Products",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvUD%2BBvla7JIw%3D%3D",
-    "validity": "07/01/2026 to 09/30/2026"
   },
   {
     "brand": "Vetriscience",
@@ -742,24 +472,6 @@
     "title": "Buy 4, Get 1 FREE on Select 3oz Complete Health Cat Cans",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynXBeBvlKHBIQ%3D%3D",
     "validity": "10/01/2026 to 10/31/2026"
-  },
-  {
-    "brand": "Wellness Pet Food and Whimzees (Well Pet)",
-    "title": "Buy 3, Get 1 FREE on 2.8oz Signature Select",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynXBeBvlK3BJA%3D%3D",
-    "validity": "09/01/2026 to 09/30/2026"
-  },
-  {
-    "brand": "Weruva Inc.",
-    "title": "Dollars OFF Fully Cooked Freeze-Dried Dog Food",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy7fGfxuk6HC",
-    "validity": "09/01/2026 to 09/30/2026"
-  },
-  {
-    "brand": "Weruva Inc.",
-    "title": "Dollars OFF Fully Cooked Freeze Dried Cat Food",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy7fGfxuk6HD",
-    "validity": "09/01/2026 to 09/30/2026"
   },
   {
     "brand": "World's Best Cat Litter",
