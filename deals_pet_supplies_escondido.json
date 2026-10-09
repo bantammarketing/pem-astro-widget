@@ -67,15 +67,15 @@
   },
   {
     "brand": "Blue Buffalo",
-    "title": "Buy 3, Get $1.00 OFF Life Protection Formula Dog Cans",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrUGfxun67B",
-    "validity": "10/01/2026 to 10/31/2026"
-  },
-  {
-    "brand": "Blue Buffalo",
     "title": "$2.00 OFF 5lb LPF Adult Dog Recipes",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrUGfxukKzF",
     "validity": "09/01/2026 to 11/29/2026"
+  },
+  {
+    "brand": "Blue Buffalo",
+    "title": "Buy 3, Get $1.00 OFF Life Protection Formula Dog Cans",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrUGfxun67B",
+    "validity": "10/01/2026 to 10/31/2026"
   },
   {
     "brand": "Bocce's Bakery (Antelope Pet)",
@@ -145,18 +145,6 @@
   },
   {
     "brand": "Fromm Pet Food",
-    "title": "FREE 4lb Beef Frittata Dog Food with Qualifying Purchase",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxunqHG",
-    "validity": "10/01/2026 to 12/31/2026"
-  },
-  {
-    "brand": "Fromm Pet Food",
-    "title": "Buy 2, Get 1 FREE on Tenderollies",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxpl6nH",
-    "validity": "10/01/2026 to 12/31/2026"
-  },
-  {
-    "brand": "Fromm Pet Food",
     "title": "FREE Lamb Pate with Qualifying Four-Star Dry Purchase",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxunqHI",
     "validity": "10/01/2026 to 12/31/2026"
@@ -172,6 +160,18 @@
     "title": "Buy 5, Get 1 FREE on All Dog Food Cans",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxula7B",
     "validity": "08/01/2026 to 10/31/2026"
+  },
+  {
+    "brand": "Fromm Pet Food",
+    "title": "FREE 4lb Beef Frittata Dog Food with Qualifying Purchase",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxunqHG",
+    "validity": "10/01/2026 to 12/31/2026"
+  },
+  {
+    "brand": "Fromm Pet Food",
+    "title": "Buy 2, Get 1 FREE on Tenderollies",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxpl6nH",
+    "validity": "10/01/2026 to 12/31/2026"
   },
   {
     "brand": "Grandma Lucy's",
@@ -325,6 +325,12 @@
   },
   {
     "brand": "Open Farm",
+    "title": "Dollars OFF GoodGut Dry Dog Recipes",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDRGfxun6DB",
+    "validity": "10/01/2026 to 10/31/2026"
+  },
+  {
+    "brand": "Open Farm",
     "title": "Buy 3, Get 1 FREE on Wet Dog Food",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDRGfxun6%2FH",
     "validity": "10/01/2026 to 10/31/2026"
@@ -333,12 +339,6 @@
     "brand": "Open Farm",
     "title": "Buy 3, Get 1 FREE on Wet Cat Food",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDRGfxun6%2FJ",
-    "validity": "10/01/2026 to 10/31/2026"
-  },
-  {
-    "brand": "Open Farm",
-    "title": "Dollars OFF GoodGut Dry Dog Recipes",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDRGfxun6DB",
     "validity": "10/01/2026 to 10/31/2026"
   },
   {
@@ -379,14 +379,14 @@
   },
   {
     "brand": "RAWZ Natural Pet Food",
-    "title": "Buy 3, Get 1 FREE on Select Dog Cans",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynfA%2BBvlKHCJQ%3D%3D",
+    "title": "Dollars OFF 10+ Essentials Dry Cat Food",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynfA%2BBvlKHCKg%3D%3D",
     "validity": "10/01/2026 to 10/31/2026"
   },
   {
     "brand": "RAWZ Natural Pet Food",
-    "title": "Dollars OFF 10+ Essentials Dry Cat Food",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynfA%2BBvlKHCKg%3D%3D",
+    "title": "Buy 3, Get 1 FREE on Select Dog Cans",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynfA%2BBvlKHCJQ%3D%3D",
     "validity": "10/01/2026 to 10/31/2026"
   },
   {
