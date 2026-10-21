@@ -133,6 +133,18 @@
   },
   {
     "brand": "Fromm Pet Food",
+    "title": "Buy 2, Get 1 FREE on Tenderollies",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxpl6nH",
+    "validity": "10/01/2026 to 12/31/2026"
+  },
+  {
+    "brand": "Fromm Pet Food",
+    "title": "Buy 5, Get 1 FREE on All Dog Food Cans",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxula7B",
+    "validity": "08/01/2026 to 10/31/2026"
+  },
+  {
+    "brand": "Fromm Pet Food",
     "title": "Buy 1, Get 1 FREE on Nutritionals Dog Treats!",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxun6jE",
     "validity": "10/01/2026 to 12/31/2026"
@@ -157,21 +169,9 @@
   },
   {
     "brand": "Fromm Pet Food",
-    "title": "Buy 2, Get 1 FREE on Tenderollies",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxpl6nH",
-    "validity": "10/01/2026 to 12/31/2026"
-  },
-  {
-    "brand": "Fromm Pet Food",
     "title": "FREE 4lb Zealamber Dog Food with Qualifying Purchase",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxunqHF",
     "validity": "10/01/2026 to 12/31/2026"
-  },
-  {
-    "brand": "Fromm Pet Food",
-    "title": "Buy 5, Get 1 FREE on All Dog Food Cans",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxula7B",
-    "validity": "08/01/2026 to 10/31/2026"
   },
   {
     "brand": "Grandma Lucy's",
@@ -181,7 +181,7 @@
   },
   {
     "brand": "Grandma Lucy's",
-    "title": "Black Friday",
+    "title": "Black Friday- $3.00 OFF 3lb Bags or Larger",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyHWGfxplqHD",
     "validity": "11/27/2026 to 11/30/2026"
   },
@@ -295,12 +295,6 @@
   },
   {
     "brand": "Nutri Source & Pure Vita",
-    "title": "Buy Choice Kibble, Get a FREE 12oz Grillin' Griller!",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvXGfxun6HD",
-    "validity": "10/01/2026 to 10/31/2026"
-  },
-  {
-    "brand": "Nutri Source & Pure Vita",
     "title": "$10.00 OFF Qualifying Large Breed Dog Food Purchase",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvXGfxuk67J",
     "validity": "09/01/2026 to 10/31/2026"
@@ -315,6 +309,12 @@
     "brand": "Nutri Source & Pure Vita",
     "title": "$5.00 OFF 32oz Grillin' Grillers",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvXGfxun6DG",
+    "validity": "10/01/2026 to 10/31/2026"
+  },
+  {
+    "brand": "Nutri Source & Pure Vita",
+    "title": "Buy Choice Kibble, Get a FREE 12oz Grillin' Griller!",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvXGfxun6HD",
     "validity": "10/01/2026 to 10/31/2026"
   },
   {
